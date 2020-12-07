@@ -1,0 +1,44 @@
+# Site Variables
+url: https://popdemtech.com
+
+# Custom settings (GitHub Pages starter)
+custom_settings:
+  # required
+  is_development: false
+
+  # optional/convenience
+  name: Popular Demand, LLC
+  description: The things you want. Built.
+
+# Handling / Reading
+safe: true
+include:
+  - _pages
+
+keep_files:
+  - assets # generate by gulp
+
+exclude:
+  - _data/rev-manifest.json
+  - .gitignore
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+
+# Conversion
+markdown: kramdown
+
+# Output
+permalink: pretty
+timezone: Europe/Stockholm
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Collections
+collections:
+  acim_qnas:
+    output: true
+    permalink: /acim/question/:path
