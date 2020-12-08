@@ -11,7 +11,7 @@
         <meta name="description" content="{{ site.custom_settings.description }}">
         {% endif %}
         <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-        <link rel="shortcut icon" type="image/x-icon" href="{{site.url}}/favicon.ico">
+        <link rel="shortcut icon" type="image/x-icon" href="{{site.url}}/favicon.png">
         <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
         <title>{% if page.url == '/' %}{{site.custom_settings.name}} - {{site.custom_settings.description}}{% else %}{{page.title}} - {{site.custom_settings.name}}{% endif %}</title>
 
