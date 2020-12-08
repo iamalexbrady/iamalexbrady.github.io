@@ -1,14 +1,51 @@
 ---
 layout: default
 ---
-<div class="acim-qna">
+
+{% assign prev_qna_order = page.order | minus: 1 %}
+
+{% assign next_qna_order = page.order | plus: 1 %}
+
+{% for question in site.acim_qnas %}
+    {% if question.order == prev_qna_order %}
+        {% assign prev_qna = question %}
+    {% elsif question.order == next_qna_order %}
+        {% assign next_qna = question %}
+    {% endif %}
+{% endfor %}
+
+<div class="acim-qna-layout">
     <div class="pre-content">
-        {% include acim_qna_select.html uniqId="1" %}
+        <div class="prev-next">
+            <div class="previous">
+                <p class="prev-next-label">{{ prev_qna.label }}</p>
+                <a href="{{ prev_qna.url }}">&larr; Prev</a>
+            </div>
+    
+            <div class="next">
+                <p class="prev-next-label">{{ next_qna.label }}</p>
+                <a href="{{ next_qna.url}}">Next &rarr;</a>
+            </div>
+        </div>
     </div>
 
     {{ content }}
 
     <div class="post-content">
-        {% include acim_qna_select.html uniqId="2" %}
+        <div class="prev-next">
+            <div class="previous">
+                <p class="prev-next-label">{{ prev_qna.label }}</p>
+                <a href="{{ prev_qna.url }}">&larr; Prev</a>
+            </div>
+    
+            <div class="next">
+                <p class="prev-next-label">{{ next_qna.label }}</p>
+                <a href="{{ next_qna.url}}">Next &rarr;</a>
+            </div>
+        </div>
+        <div class="select-box-wrapper">
+            {% include acim_qna_select.html %}
+            <a href="/" class="prev-next-label">view question list</a>
+        </div>
     </div>
 </div>
