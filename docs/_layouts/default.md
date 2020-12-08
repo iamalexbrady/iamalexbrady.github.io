@@ -22,14 +22,12 @@
         {% endif %}
 
     </head>
-    <body id="top">
+    <body id="top" class="light-mode">
 
         <div class="app-center-wrapper">
-            {% comment %}
-            {% include header.md %}
-            {% endcomment %}
+            {% include header.html %}
 
-            <main id="app-site-main">
+            <main id="app-site-main" class="main-content">
                 <article>
                     {{ content }}
                 </article>

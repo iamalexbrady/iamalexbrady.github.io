@@ -1,0 +1,30 @@
+@import "variables";
+
+.link-btn {
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    background-color: $primary-btn-bg;
+    border: 1px solid $ab-gray;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+        background-color: darken($primary-btn-bg, 5%);
+    }
+}
+
+.link-btn-list {
+    .link-btn {
+        border-bottom: none;
+
+        &:first-of-type {
+            border-radius: .5em .5em 0 0;
+        }
+
+        &:last-of-type{
+            border-radius: 0 0 .5em .5em;
+            border-bottom: 1px solid $ab-gray;
+        }
+    }
+}
