@@ -35,10 +35,11 @@ h3 {
   padding: 0 2em;
 }
 
-.app-site-header {
+.app-site-header,
+.app-site-footer {
   background-color: $ab-black;
+  color: $ab-white;
   display: flex;
-  justify-content: space-between;
   align-items: center;
   height: 3em;
   padding: 0 1em;
@@ -53,7 +54,18 @@ h3 {
   }
 }
 
-#app-site-footer {
-  border-top: 1px solid $ab-black;
-  text-align: center;
+.app-site-header {
+  justify-content: space-between;
+}
+
+.app-site-footer {
+  justify-content: center;
+
+  .abi {
+    font-size: .7em;
+  }
+
+  & > * {
+    padding: 0 1em;
+  }
 }

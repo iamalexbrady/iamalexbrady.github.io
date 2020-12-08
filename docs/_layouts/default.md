@@ -33,7 +33,7 @@
                 </article>
             </main>
 
-            {% include footer.md %}
+            {% include footer.html %}
 
         </div>
 
