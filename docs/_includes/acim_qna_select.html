@@ -1,0 +1,24 @@
+<select name="acim-qna" class="acim-qna-select">
+    {% for question in site.acim_qnas %}
+    <option
+        value="{{question.label}}"
+        {% if page.order == question.order %} selected {% endif %}
+        js-url="{{ question.url }}"
+    >
+        {{ question.label }}
+    </option>
+    {% endfor %}
+</select>
+
+<script>
+    var qnaSelects = document.getElementsByClassName('acim-qna-select');
+    var navigateOnChange = function() {
+        var elem = (typeof this.selectedIndex === 'undefined' ? window.this.srcElement : this);
+        var selectedOption = elem.options[elem.selectedIndex];
+        var newUrl = selectedOption.getAttribute('js-url');
+        window.location.href = newUrl;
+    }
+    for (var i = 0; i < qnaSelects.length; i++) {
+        qnaSelects[i].addEventListener('change', navigateOnChange);
+    }
+</script>
