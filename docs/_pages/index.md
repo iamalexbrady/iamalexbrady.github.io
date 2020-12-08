@@ -9,4 +9,7 @@ permalink: /
 <hr>
 
 <h2>ACIM Questions and Answers</h2>
-i have this many questions: {{ site.acim_qnas.size }}
+
+{% for question in site.acim_qnas %}
+### [{{ question.label }}]({{ question.url }})
+{% endfor %}

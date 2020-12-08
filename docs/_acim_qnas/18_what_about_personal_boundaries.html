@@ -1,12 +1,15 @@
-<div class="heading">
-    <div class="content-wrapper">
-        <h2 id="what_about_personal_boundaries">
-            18. What about personal boundaries and self-defense?
+---
+layout: acim_qna
+label: 18. What about personal boundaries and self-defense?
+heading_id: what-about-personal-boundaries
+---
+<div class="acim-qna">
+    <div class="heading">
+        <h2 id="{{page.heading_id}}">
+            {{ page.label }}
         </h2>
     </div>
-</div>
 
-<div class="content-wrapper">
     <div class="article">
         <p>
             Hypotheticals are dangerous concepts on which to build behavior codes. If it is not presently occurring, it is <b><u>not</u></b>. Casual consideration is an act that will be taken absent-mindedly, undoubtedly, but to allow anxiety or lack of peace to arise from an event that is not presently occurring is self-defeating.
@@ -28,9 +31,7 @@
         </p>
         <p>The guidance of the higher Self is <b>reasonable.</b> Your behavior should reflect that. Trust your intuition.</p>
     </div>
-</div>
 
-<div class="content-wrapper">
     <div class="reference">
         <p>
             Forget not, when you feel the need arise to be defensive about <i>anything</i>, you have identified <i>your self</i> with an illusion. And therefore feel that you are weak <i>because</i> you are alone. This is the cost of all illusions. [All] rest on the belief that you are separate. [All] seem to stand, heavy and solid and immovable, between you and your brother. And [there is] not one that truth cannot pass over lightly and so easily that you <i>must</i> be convinced, in spite of what you <i>thought</i> it was, that it is nothing. If you forgive each other, this <i>must</i> happen. For it <i>is</i> your unwillingness to overlook what seems to stand between you that makes it look impenetrable and <i>defends</i> the illusion of its immovability.
@@ -39,149 +40,3 @@
         <div class="citation"><i>A Course in Miracles</i>, OrEd.Tx.22.VI.50</div>
     </div>
 </div>
-
-<style>
-    /* heading */
-    .heading {
-        font-weight: bold;
-        padding: 1em 0;
-        font-size: 2em;
-        margin-top: 1em;
-        margin-bottom: 1em;
-        border-bottom: 2px solid #333;
-    }
-
-    /* article */
-    .article {
-        font-size: 1.5em;
-        line-height: 1.5;
-        text-align: justify;
-    }
-
-    .article p {
-        margin-bottom: 1.5em;
-    }
-
-    .article ol, .article ul {
-        padding: 0 2em;
-    }
-    .article li {
-        margin-bottom: 1em;
-    }
-
-    .article .citation {
-        margin-top: -1.2em;
-        font-size: .8em;
-    }
-
-    /* auxilliary quotation */
-    .reference {
-        width: 75%;
-        text-align: justify;
-        font-size: 1.5em;
-        line-height: 1.5;
-        margin: auto;
-        border: 1px solid #333;
-        padding: 2em;
-        margin-bottom: 1em;
-    }
-
-    .reference p {
-        margin-bottom: 1.5em;
-    }
-
-    .reference .inner-quote p:not(:last-of-type) {
-        margin-bottom: 0;
-    }
-
-    /* used in article and reference */
-    .inner-quote {
-        text-align: center;
-        font-style: italic;
-    }
-
-    .citation {
-        text-align: center;
-        font-size: 1em;
-        font-weight: bold;
-    }
-
-    /* list that does a) b) c) */
-    .alpha-paren-list {
-        counter-reset: list;
-    }
-    
-    .alpha-paren-list li {
-        list-style: none;
-    }
-
-    .alpha-paren-list li:before {
-        content: counter(list, lower-alpha) ") ";
-        counter-increment: list;
-    }
-
-</style>
-
-<style>
-/* from: http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-/* custom global styles */
-* { color: #333; }
-
-a { color: black; }
-
-b { font-weight: bold; }
-
-i { font-style: italic; }
-
-ol { list-style: decimal; }
-
-.content-wrapper { margin: 0 1in; }
-</style>

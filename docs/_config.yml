@@ -41,4 +41,5 @@ kramdown:
 collections:
   acim_qnas:
     output: true
-    permalink: /acim/question/:path
+    sort_by: path
+    permalink: /acim/question/:name:output_ext

@@ -1,12 +1,15 @@
-<div class="heading">
-    <div class="content-wrapper">
-        <h2 id="why-holy-spirit">
-            23. Why use the term Holy Spirit?
+---
+layout: acim_qna
+label: 23. Why use the term Holy Spirit?
+heading_id: why-term-holy-spirit
+---
+<div class="acim-qna">
+    <div class="heading">
+        <h2 id="{{page.heading_id}}">
+            {{ page.label }}
         </h2>
     </div>
-</div>
 
-<div class="content-wrapper">
     <div class="article">
         <p>
             The Holy Spirit is the Guide that is given each of us that will <u>teach</u> us the path back to our true Identity. If we only had ego-identified teachers, this path would be <u>impossible</u> to find on a mass scale because experience is necessarily not able to be shared via body-to-body communication. The Holy Spirit resides within our mental space, intangible, and guides through discernment, intuition, and conveyed understandings 
@@ -18,9 +21,7 @@
             The term “Holy Spirit” can be thought of as the “Spirit of Wholeness”. Within each of us individually, we have the memory of our Oneness with all of creation. The memory of God and our Identity.
         </p>
     </div>
-</div>
 
-<div class="content-wrapper">
     <div class="reference">
         <p>
             The Holy Spirit is described as the remaining communication link between God and His separated sons.
@@ -32,161 +33,3 @@
         <div class="citation"><i>A Course in Miracles</i>, Use of Terms</div>
     </div>
 </div>
-
-<style>
-    p {
-        margin-bottom: 1.5em;
-    }
-
-    /* heading */
-    .heading {
-        font-weight: bold;
-        padding: 1em 0;
-        font-size: 2em;
-        margin-top: 1em;
-        margin-bottom: 1em;
-        border-bottom: 2px solid #333;
-    }
-
-    /* article */
-    .article {
-        font-size: 1.5em;
-        line-height: 1.5;
-        text-align: justify;
-    }
-
-    .article p {
-        margin-bottom: 1.5em;
-    }
-
-    .article ol, .article ul {
-        padding: 0 2em;
-    }
-
-    .article li {
-        margin-bottom: 1em;
-    }
-
-    .article li:last-child {
-        margin-bottom: 1.5em;
-    }
-
-    .article .mb-small {
-        margin-bottom: 1em;
-    }
-
-    .article .citation {
-        margin-top: -1.2em;
-        font-size: .8em;
-    }
-
-    /* auxilliary quotation */
-    .reference {
-        width: 75%;
-        text-align: justify;
-        font-size: 1.5em;
-        line-height: 1.5;
-        margin: auto;
-        border: 1px solid #333;
-        padding: 2em;
-        margin-bottom: 1em;
-    }
-
-    .reference p {
-        margin-bottom: 1.5em;
-    }
-
-    .reference .inner-quote p:not(:last-of-type) {
-        margin-bottom: 0;
-    }
-
-    /* used in article and reference */
-    .inner-quote {
-        text-align: center;
-        font-style: italic;
-    }
-
-    .citation {
-        text-align: center;
-        font-size: 1em;
-        font-weight: bold;
-    }
-
-    /* list that does a) b) c) */
-    .alpha-paren-list {
-        counter-reset: list;
-    }
-    
-    .alpha-paren-list li {
-        list-style: none;
-    }
-
-    .alpha-paren-list li:before {
-        content: counter(list, lower-alpha) ") ";
-        counter-increment: list;
-    }
-</style>
-
-<style>
-/* from: http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-/* custom global styles */
-* { color: #333; }
-
-a { color: black; }
-
-b { font-weight: bold; }
-
-i { font-style: italic; }
-
-ol { list-style: decimal; }
-
-.content-wrapper { margin: 0 1in; }
-</style>

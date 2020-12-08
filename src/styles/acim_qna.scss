@@ -1,0 +1,114 @@
+@import 'mixins';
+
+.acim-qna {
+	@include css-reset;
+
+	padding: 0 1em;
+
+	p {
+        margin-bottom: 1.5em;
+    }
+
+    .inner-table {
+        margin: 0;
+        width: 100%;
+    }
+
+    .inner-table td {
+        padding: .2em 0;
+        vertical-align: middle;
+    }
+
+    td:last-child {
+        padding-left: 1em;
+    }
+
+    /* heading */
+    .heading {
+        font-weight: bold;
+        padding: 1em 0;
+        font-size: 2em;
+        margin-top: 1em;
+        margin-bottom: 1em;
+        border-bottom: 2px solid #333;
+    }
+
+    /* article */
+    .article {
+        font-size: 1.5em;
+        line-height: 1.5;
+        text-align: justify;
+    }
+
+    .article p {
+        margin-bottom: 1.5em;
+    }
+
+    .article ol, .article ul {
+        padding: 0 2em;
+    }
+
+    .article li {
+        margin-bottom: 1em;
+    }
+
+    .article li:last-child {
+        margin-bottom: 1.5em;
+    }
+
+    .article .mb-small {
+        margin-bottom: 1em;
+    }
+
+    .article .citation {
+        margin-top: -1.2em;
+        font-size: .8em;
+    }
+
+    /* auxilliary quotation */
+    .reference {
+        width: 75%;
+        text-align: justify;
+        font-size: 1.5em;
+        line-height: 1.5;
+        margin: auto;
+        border: 1px solid #333;
+        padding: 2em;
+        margin-bottom: 1em;
+    }
+
+    .reference p {
+        margin-bottom: 1.5em;
+    }
+
+    .reference .inner-quote p:not(:last-of-type) {
+        margin-bottom: 0;
+    }
+
+    /* used in article and reference */
+    .inner-quote {
+        text-align: center;
+        font-style: italic;
+    }
+
+    .citation {
+        text-align: center;
+        font-size: 1em;
+        font-weight: bold;
+    }
+
+    /* list that does a) b) c) */
+    .alpha-paren-list {
+        counter-reset: list;
+    }
+    
+    .alpha-paren-list li {
+        list-style: none;
+    }
+
+    .alpha-paren-list li:before {
+        content: counter(list, lower-alpha) ") ";
+        counter-increment: list;
+    }
+}
+

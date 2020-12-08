@@ -1,12 +1,15 @@
-<div class="heading">
-    <div class="content-wrapper">
-        <h2 id="what-is-forgiveness">
-            6. What is forgiveness?
+---
+layout: acim_qna
+label: 6. What is forgiveness?
+heading_id: what-is-forgiveness
+---
+<div class="acim-qna">
+    <div class="heading">
+        <h2 id="{{page.heading_id}}">
+            {{ page.label }}
         </h2>
     </div>
-</div>
 
-<div class="content-wrapper">
     <div class="article">
         <p>
             <b>How the we've historically defined forgiveness:</b><br/>
@@ -34,158 +37,10 @@
             The second definition is the goal to be attained – the sooner, the better.
         </p>
     </div>
-</div>
 
-<div class="content-wrapper">
     <div class="reference">
         <p>Illusions are always illusions of differences. [...] Where do all these differences come from? Certainly they seem to be in the world outside. Yet it is surely the mind that judges what the eyes behold. It is the mind that interprets the eyes' messages and gives them "meaning." And this meaning does not exist in the world outside at all. What is seen as "reality" is simply what the mind prefers. Its hierarchy of values is projected outward, and it sends the body's eyes to find it. The body's eyes will never see except through differences. Yet it is not the messages they bring on which perception rests. Only the mind evaluates their messages, and so only the mind is responsible for seeing. It alone decides whether what is seen is real or illusory, desirable or undesirable, pleasurable or painful.</p>
   
         <div class="citation"><i>ACIM Manual for Teachers</i>, OrEd.Man.8.2-3</div>
     </div>
 </div>
-
-<style>
-    /* heading */
-    .heading {
-        font-weight: bold;
-        padding: 1em 0;
-        font-size: 2em;
-        margin-top: 1em;
-        margin-bottom: 1em;
-        border-bottom: 2px solid #333;
-    }
-
-    /* article */
-    .article {
-        font-size: 1.5em;
-        line-height: 1.5;
-        text-align: justify;
-    }
-
-    .article p {
-        margin-bottom: 1.5em;
-    }
-
-    .article ol, .article ul {
-        padding: 0 2em;
-    }
-    .article li {
-        margin-bottom: 1em;
-    }
-
-    .article .citation {
-        margin-top: -1.2em;
-        font-size: .8em;
-    }
-
-    /* auxilliary quotation */
-    .reference {
-        width: 75%;
-        text-align: justify;
-        font-size: 1.5em;
-        line-height: 1.5;
-        margin: auto;
-        border: 1px solid #333;
-        padding: 2em;
-        margin-bottom: 1em;
-    }
-
-    .reference p {
-        margin-bottom: 1.5em;
-    }
-
-    .reference .inner-quote p:not(:last-of-type) {
-        margin-bottom: 0;
-    }
-
-    /* used in article and reference */
-    .inner-quote {
-        text-align: center;
-        font-style: italic;
-    }
-
-    .citation {
-        text-align: center;
-        font-size: 1em;
-        font-weight: bold;
-    }
-
-    /* list that does a) b) c) */
-    .alpha-paren-list {
-        counter-reset: list;
-    }
-    
-    .alpha-paren-list li {
-        list-style: none;
-    }
-
-    .alpha-paren-list li:before {
-        content: counter(list, lower-alpha) ") ";
-        counter-increment: list;
-    }
-
-</style>
-
-<style>
-/* from: http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
-*/
-
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
-a, abbr, acronym, address, big, cite, code,
-del, dfn, em, img, ins, kbd, q, s, samp,
-small, strike, strong, sub, sup, tt, var,
-b, u, i, center,
-dl, dt, dd, ol, ul, li,
-fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
-menu, nav, output, ruby, section, summary,
-time, mark, audio, video {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-}
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
-
-/* custom global styles */
-* { color: #333; }
-
-a { color: black; }
-
-b { font-weight: bold; }
-
-i { font-style: italic; }
-
-ol { list-style: decimal; }
-
-.content-wrapper { margin: 0 1in; }
-</style>
