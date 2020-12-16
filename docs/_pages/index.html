@@ -4,11 +4,20 @@ title: Home
 permalink: /
 ---
 
+{% for page in site.pages %}
+    {% if page.external_selector == 'about-acim' %}
+        {% assign about_acim_url = page.url %}
+    {% endif %}
+{% endfor %}
+
 <h1>The alex brady Course in Miracles</h1>
 
 <p>Spiritual Enlightenment starter kit. Just add a little willingness.</p>
 
 <hr>
+
+<h2>About ACIM</h2>
+<p><a href="{{ about_acim_url }}">About ACIM</a> - Classic (pre-alex brady) overview of the framework and early history of ACIM.</p>
 
 <h2>ACIM Questions and Answers</h2>
 <div class="link-btn-list">

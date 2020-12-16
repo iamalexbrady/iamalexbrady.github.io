@@ -5,6 +5,13 @@ heading_id: what-is-acim
 order: 1
 external_selector: what-is-acim
 ---
+
+{% for page in site.pages %}
+    {% if page.external_selector == 'about-acim' %}
+        {% assign about_acim_url = page.url %}
+    {% endif %}
+{% endfor %}
+
 <div class="acim-qna">
     <div class="heading">
         <h2 id="{{page.heading_id}}">
@@ -16,7 +23,7 @@ external_selector: what-is-acim
             <i>A Course in Miracles</i> is a self-study spiritual teaching and program with the aim of bringing the learner to Self-realization as eternal spirit – the goal of all spiritual paths. This teaching is a proven direct method of restoring personal communication with the One Source of all that ever is, was, and will be. It provides a theoretical framework as well as a 365-day mind training program to guide learners in attaining this goal.
         </p>
         <p>
-            It is the work of Jesus Christ through scribe Helen Shucman and editor Bill Thetford. It was popularized by the teaching of Kenneth Wapnick. Read more of its history at <a href="https://wikipedia.org/wiki/A_Course_in_Miracles">https://wikipedia.org/wiki/A_Course_in_Miracles</a>.
+            It is the work of Jesus Christ through scribe Helen Shucman and editor Bill Thetford. It was popularized by the teaching of Kenneth Wapnick. Read more of its history at <a href="{{ about_acim_url }}">{{site.url}}{{about_acim_url}}</a>.
         </p>
         <p>
             It is composed of three parts: A Text, a Workbook, and a Teacher’s Manual.
