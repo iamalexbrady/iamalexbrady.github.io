@@ -22,7 +22,7 @@
         {% endif %}
 
     </head>
-    <body id="top" class="light-mode">
+    <body id="top" class="light-mode {{page.body_class}}">
 
         <div class="app-center-wrapper">
             {% include header.html %}
