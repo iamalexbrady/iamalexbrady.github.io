@@ -8,7 +8,7 @@ custom_settings:
 
   # optional/convenience
   name: abcim
-  description: The alex brady Course in Miracles
+  description: alex brady's Course in Miracles
 
 # Handling / Reading
 safe: true
