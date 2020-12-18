@@ -18,13 +18,19 @@ layout: default
     <div class="pre-content">
         <div class="prev-next">
             <div class="previous">
+                {% comment %} unless block omits "prev" dialog for first question {% endcomment %}
+                {% unless prev_qna_order == 0 %}
                 <p class="prev-next-label">{{ prev_qna.label }}</p>
                 <a href="{{ prev_qna.url }}">&larr; Prev</a>
+                {% endunless %}
             </div>
     
             <div class="next">
+                {% comment %} unless block omits "next" dialog for last question {% endcomment %}
+                {% unless page.order == site.acim_qnas.size %}
                 <p class="prev-next-label">{{ next_qna.label }}</p>
                 <a href="{{ next_qna.url}}">Next &rarr;</a>
+                {% endunless %}
             </div>
         </div>
     </div>
@@ -34,13 +40,19 @@ layout: default
     <div class="post-content">
         <div class="prev-next">
             <div class="previous">
+                {% comment %} unless block omits "prev" dialog for first question {% endcomment %}
+                {% unless prev_qna_order == 0 %}
                 <p class="prev-next-label">{{ prev_qna.label }}</p>
                 <a href="{{ prev_qna.url }}">&larr; Prev</a>
+                {% endunless %}
             </div>
     
             <div class="next">
+                {% comment %} unless block omits "next" dialog for last question {% endcomment %}
+                {% unless page.order == site.acim_qnas.size %}
                 <p class="prev-next-label">{{ next_qna.label }}</p>
                 <a href="{{ next_qna.url}}">Next &rarr;</a>
+                {% endunless %}
             </div>
         </div>
         <div class="select-box-wrapper">
