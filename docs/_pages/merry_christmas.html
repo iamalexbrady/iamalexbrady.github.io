@@ -1,0 +1,29 @@
+---
+layout: page
+title: 🎁 Merry Christmas 🎁
+permalink: /merry-christmas/
+body_class: merry-christmas
+external_selector: merry-christmas
+---
+
+
+{% for num in (1..12) %}
+<div style="display:flex; width:100%; flex-direction: row; flex-wrap: wrap;">
+    {% for num in (1..4) %}
+    <img src="/assets/img/goose_1.png" alt="geese" style="width:50%;" class="geese">
+    <img src="/assets/img/goose_23.png" alt="geese" style="width:50%;" class="geese">
+    {% endfor %}
+
+    {% for num in (1..16) %}
+    <img src="/assets/img/goose_1.png" alt="geese" style="width:25%;" class="geese">
+    <img src="/assets/img/goose_23.png" alt="geese" style="width:25%;" class="geese">
+    {% endfor %}
+
+    {% for num in (1..256) %}
+    <img src="/assets/img/geese.png" alt="geese" style="width:10%;" class="geese">
+    {% endfor %}
+</div>
+<br/>
+{% endfor %}
+<p>I give the miracles I have received.</p>
+<p>- alex brady</p>
