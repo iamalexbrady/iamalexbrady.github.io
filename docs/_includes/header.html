@@ -1,8 +1,48 @@
-<header class="app-site-header">
-    <div class="heading-left">
-        <a href="/">a.b Course in Miracles</a>
+<!-- <header class="app-site-header">
+    <nav>
+
+        <a href="{{ '/' | prepend: site.url}}" class="{% if page.url== '/' %}app-text-strong{% endif %}">
+            <img src="{{'/favicon.png' | prepend: site.url}}" alt="" width="24" height="24" />
+            {{site.custom_settings.name}}
+        </a>
+
+        {% assign pages = site.pages | where_exp:"p",
+        "p.custom_menu_order > 0" | sort:"custom_menu_order" %}
+        {% for p in pages } %}
+        |
+        <a href="{{p.url | prepend: site.url}}" class="{% if p.url== page.url %}app-text-strong{% endif %}">
+            {{p.title}}
+        </a>
+        {% endfor %}
+
+    </nav>
+</header> -->
+
+<nav class="navbar navbar-expand-lg app-site-header">
+    <a class="navbar-brand" href="/">
+      alex brady
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="/">home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/abcim">abcim</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            acim
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="/acim">about acim</a>
+            <a class="dropdown-item" href="https://iamalexbrady.com/blogs/abcim/get-a-course-in-miracles" target="_blank">get acim</a>
+            <a class="dropdown-item" href="/">acim faqs</a>
+          </div>
+        </li>
+      </ul>
     </div>
-    <div class="heading-right">
-        <a href="https://iamalexbrady.com">iamalexbrady.com &rarr;</a>
-    </div>
-</header>
+  </nav>

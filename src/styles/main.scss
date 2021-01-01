@@ -42,8 +42,6 @@ h3 {
   color: $ab-white;
   display: flex;
   align-items: center;
-  height: 3em;
-  padding: 0 1em;
 
   a {
     color: $ab-white;
@@ -53,14 +51,30 @@ h3 {
       text-decoration: underline;
     }
   }
+
+  .dropdown-menu {
+    background-color: $ab-black;
+  }
+
+  .navbar-toggler {
+    border: 3px solid $ab-white;
+  }
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(233,233,233,.91)' stroke-width='3' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
 }
 
 .app-site-header {
   justify-content: space-between;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 .app-site-footer {
   justify-content: center;
+  height: 3em;
+  padding: 0 1em;
 
   & > * {
     font-size: .7em;
