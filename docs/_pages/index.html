@@ -10,37 +10,43 @@ permalink: /
     {% endif %}
 {% endfor %}
 
-<h1>alex brady's Course in Miracles</h1>
+<div class="region">
+    <h1>alex brady's Course in Miracles</h1>
 
-<p>alex brady's course in miracles has the expressed purpose of the learner learning spiritual enlightenment.</p>
-<p>The only way it doesn't work is if you do it wrong.</p>
-<p>Not enlightened yet? <a href="/abcim" title="abcim">Find out how.</a></p>
-
-<p><a href="/abcim" target="_blank" title="abcim">Get the steps!</a>.</p>
-
-<hr>
-
-<h2>ACIM Questions and Answers</h2>
-<div class="link-btn-list">
-    {% for question in site.acim_qnas %}
-
-    <a class="link-btn" href="{{ question.url }}">
-        <div class="link-text">{{ question.label }}</div>
-        <div class="icon">&rarr;</div>
-    </a> 
-
-    {% endfor %}
+    <p>alex brady's course in miracles has the expressed purpose of the learner learning spiritual enlightenment.</p>
+    <p>Not enlightened yet? <a href="/abcim" title="abcim">Find out how.</a></p>
 </div>
 
-<h2>About ACIM</h2>
-<p><a href="{{ about_acim_url }}">About ACIM</a> - Classic (pre-alex brady) overview of the framework and early history of ACIM.</p>
 
-<h2>What is abcim?</h2>
-<p><a href="https://iamalexbrady.com/blogs/abcim/abcim-the-blog-post" target="_blank" title="abcim the post iamalexbrady">alex brady's Course in Miracles</a> is a set of steps with the purpose of taking the learner from wherever they are in life to personal spiritual enlightenment. These steps are heavily based on the teaching found within the book <i>A Course in Miracles.</i></p>
+<div class="region">
+    <h2>ACIM Questions and Answers</h2>
+    <div class="link-btn-list">
+        {% for question in site.acim_qnas %}
+    
+        <a class="link-btn" href="{{ question.url }}">
+            <div class="link-text">{{ question.label }}</div>
+            <div class="icon">&rarr;</div>
+        </a> 
+    
+        {% endfor %}
+    </div>
+</div>
 
-<p>Spiritual growth is a personal process. abcim is undertaken as a self-guided journey. Intrapersonal (within-yourself) contemplation and examination of the teachings is encouraged and fundamentally a required aspect of this course. We aim to give you the tools you need to learn from the comfort of your own home. The goal of Higher-Self realization is flexible to any lifestyle.</p>
+<div class="region">
+    <h2>About ACIM</h2>
+    <p><a href="{{ about_acim_url }}">About ACIM</a> - Classic (pre-alex brady) overview of the framework and early history of ACIM.</p>
+</div>
 
-<p>We provide both ACIM and non-ACIM resources. We also provide an <a href="https://reddit.com/r/iamalexbrady" target="_blank" title="iamalexbrady subreddit">online community</a> for Self-seekers to share and socialize.</p>
+<div class="region">
+    <h2>What is abcim?</h2>
+    <p><a href="https://iamalexbrady.com/blogs/abcim/abcim-the-blog-post" target="_blank" title="abcim the post iamalexbrady">alex brady's Course in Miracles</a> is a set of steps with the purpose of taking the learner from wherever they are in life to personal spiritual enlightenment. These steps are heavily based on the teaching found within the book <i>A Course in Miracles.</i></p>
+    
+    <p>Spiritual growth is a personal process. abcim is undertaken as a self-guided journey. Intrapersonal (within-yourself) contemplation and examination of the teachings is encouraged and fundamentally a required aspect of this course. We aim to give you the tools you need to learn from the comfort of your own home. The goal of Higher-Self realization is flexible to any lifestyle.</p>
+    
+    <p>We provide both ACIM and non-ACIM resources. We also provide an <a href="https://reddit.com/r/iamalexbrady" target="_blank" title="iamalexbrady subreddit">online community</a> for Self-seekers to share and socialize.</p>
+</div>
 
-<p>More at <a href="https://iamalexbrady.com">iamalexbrady.com</a>.</p>
-<p>Contact a.b: <a href="https://iamalexbrady.com/pages/contact-a-b">Contact form</a> or iamalexbrady@gmail </p>
+<div class="section">
+    <p>More at <a href="https://iamalexbrady.com">iamalexbrady.com</a>.</p>
+    <p>Contact a.b: <a href="https://iamalexbrady.com/pages/contact-a-b">Contact form</a> or iamalexbrady@gmail </p>
+</div>
