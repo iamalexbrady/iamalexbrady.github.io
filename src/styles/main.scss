@@ -17,8 +17,23 @@ h1{
   margin: 1.5em 0 .5em;
 }
 
+h2 {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-bottom: .5em;
+}
+
 h3 {
-  font-size: 1.45em;
+  font-size: 1.22em;
+  margin-bottom: .5em;
+}
+
+h4 {
+  font-size: .95em;
+  margin-bottom: .5em;
+  font-variant: small-caps;
+  letter-spacing: 2px;
+  font-weight: bold;
 }
 
 .app-text-strong {
@@ -80,4 +95,45 @@ h3 {
     font-size: .7em;
     padding: 0 1em;
   }
+}
+
+// Global
+
+#star-five {
+  margin: 1em 0;
+  position: relative;
+  color: $ab-black;
+  width: 0px;
+  height: 0px;
+  border-right: 10px solid transparent;
+  border-bottom: 7px solid $ab-black;
+  border-left: 10px solid transparent;
+  transform: rotate(35deg);
+}
+#star-five:before {
+  border-bottom: 8px solid $ab-black;
+  border-left: 3px solid transparent;
+  border-right: 3px solid transparent;
+  position: absolute;
+  height: 0;
+  width: 0;
+  top: -4.5px;
+  left: -6.5px;
+  display: block;
+  content: '';
+  transform: rotate(-35deg);
+}
+#star-five:after {
+  position: absolute;
+  display: block;
+  color: $ab-black;
+  top: .3px;
+  left: -10.5px;
+  width: 0px;
+  height: 0px;
+  border-right: 10px solid transparent;
+  border-bottom: 7px solid $ab-black;
+  border-left: 10px solid transparent;
+  transform: rotate(-70deg);
+  content: '';
 }

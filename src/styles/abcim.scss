@@ -1,0 +1,54 @@
+@import "variables";
+
+.abcim {
+
+    ol > li {
+        margin-bottom: .5em;
+    }
+
+    li > p {
+        font-size: .95em;
+    }
+
+    li > p:not(:last-child) {
+        margin-bottom: 0;
+    }
+
+    .region {
+        padding-top: 1em;
+        border-top: 5px solid $ab-black;
+    }
+
+    .section {
+        padding: 1.5em 0;
+        border-bottom: 1px solid $ab-black;
+    }
+
+    .star-container {
+        margin-bottom: .9em;
+    }
+
+    .faqs {
+        font-size: 18px;
+
+        h3 {
+            font-size: 1.1em;
+            font-weight: bold;
+            margin-bottom: 1em;
+        }
+
+        .section {
+            margin-bottom: 0;
+            padding: 1em;
+        }
+
+        .section:nth-child(even) {
+            color: $ab-white;
+            background-color: $ab-black;
+
+            a {
+                color: #bbbbff
+            }
+        }
+    }
+}
