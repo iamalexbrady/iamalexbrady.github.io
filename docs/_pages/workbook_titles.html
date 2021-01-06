@@ -10,11 +10,13 @@ custom_menu_order: 5
 {% for title in site.data.workbook_titles %}
 <p>
     <div class="card">
-        <div class="card-body">
-            <a href="{{ title.url }}" target="_blank">
-                {{ title.type | capitalize }} {{ title.number }} | {{ title.title }}
-            </a>
-        </div>
+    
+        <a href="{{ title.url }}" target="_blank">
+            <div class="card-body">
+            {{ title.type | capitalize }} {{ title.number }} | {{ title.title }}
+            </div>
+        </a>
+
     </div>
 </p>
 {% endfor %}
