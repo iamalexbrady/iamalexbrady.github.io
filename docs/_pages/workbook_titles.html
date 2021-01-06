@@ -1,0 +1,20 @@
+---
+layout: default
+title: ACIM Workbook Lessons
+permalink: /acim/workbook-lessons/
+body_class: acim
+external_selector: workbook-lessons
+custom_menu_order: 5
+---
+<h1>ACIM Workbook Lessons</h1>
+{% for title in site.data.workbook_titles %}
+<p>
+    <div class="card">
+        <div class="card-body">
+            <a href="{{ title.url }}" target="_blank">
+                {{ title.type | capitalize }} {{ title.number }} | {{ title.title }}
+            </a>
+        </div>
+    </div>
+</p>
+{% endfor %}
