@@ -1,18 +1,19 @@
 ---
 layout: default
-title: ACIM Workbook Lessons
+title: ACIM Text Reading Schedule
 permalink: /acim/reading-schedule/
 body_class: acim
 external_selector: reading-schedule
 custom_menu_order: 7
 ---
 <h1>ACIM Text Reading Schedule</h1>
+<p>Reading schedule for the <a href="/acim/get-acim/" target="_blank">ACIM Original Edition Text.</a></p>
 <script>
     function printSchedule() {
         var schedule = document.getElementsByClassName('reading-schedule')[0];
         
         var printContents = schedule.outerHTML;
-        var title = '<h1 style="text-align:center;">ACIM Reading Schedule</h1>';
+        var title = '<h1 style="text-align:center;">ACIM Text Reading Schedule</h1>';
         printContents = title + printContents;
         var originalContents = document.body.innerHTML;
         document.body.innerHTML = printContents;
