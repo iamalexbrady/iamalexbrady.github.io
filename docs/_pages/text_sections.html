@@ -1,0 +1,30 @@
+---
+layout: default
+title: ACIM Manual for Teachers
+permalink: /acim/text/
+body_class: acim
+external_selector: acim-text
+custom_menu_order: 6
+---
+{% assign sections_by_chapter = site.data.text_sections | group_by: "chapter" %}
+
+<h1>ACIM Text Chapters</h1>
+<p>Listed are the chapters and sections found within the <i>A Course in Miracles</i> Original Edition (jcim.net).</p>
+<p><a href="https://iamalexbrady.com/blogs/abcim/get-a-course-in-miracles" target="_blank">PDF and physical copies</a> available.</p>
+{% for chapter in sections_by_chapter %}
+<p>
+    <div class="card">
+        <div class="card-body">
+            {% for section in chapter.items %}
+            <p>
+                {% if forloop.first %}<b>{% endif %}
+                <a href="{{ section.url }}" target="_blank">
+                    {{ section.title }} <span class="text-small">({{ section.reference }})</span>
+                </a>
+                {% if forloop.first %}</b>{% endif %}
+            </p>
+            {% endfor %}
+        </div>
+    </div>
+</p>
+{% endfor %}

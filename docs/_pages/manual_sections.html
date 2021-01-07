@@ -1,0 +1,22 @@
+---
+layout: default
+title: ACIM Manual for Teachers
+permalink: /acim/manual-for-teachers/
+body_class: acim
+external_selector: manual-for-teachers
+custom_menu_order: 6
+---
+<h1>ACIM Manual for Teachers</h1>
+{% for section in site.data.manual_sections %}
+<p>
+    <div class="card">
+    
+        <a href="{{ section.url }}" target="_blank">
+            <div class="card-body">
+            <b>{{ section.reference }}</b> | {{ section.title }}
+            </div>
+        </a>
+
+    </div>
+</p>
+{% endfor %}
