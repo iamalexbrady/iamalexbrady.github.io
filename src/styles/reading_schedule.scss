@@ -1,0 +1,29 @@
+@import "variables";
+
+.reading-schedule {
+    font-size: .75em;
+
+    thead {
+        background: $ab-black;
+        color: $ab-white;
+        font-variant: small-caps;
+        font-weight: bold;
+    }
+
+    tr:nth-child(even) {
+        background-color: #eee;
+    }
+
+    td {
+        padding: .5em;
+    }
+
+    td.day-number {
+        background-color: $ab-gray;
+        text-align: center;
+    }
+
+    td.agenda {
+        padding-left: 1em;
+    }
+}

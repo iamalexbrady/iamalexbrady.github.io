@@ -1,0 +1,68 @@
+---
+layout: default
+title: ACIM Workbook Lessons
+permalink: /acim/reading-schedule/
+body_class: acim
+external_selector: reading-schedule
+custom_menu_order: 7
+---
+<h1>ACIM Text Reading Schedule</h1>
+<script>
+    function printSchedule() {
+        var schedule = document.getElementsByClassName('reading-schedule')[0];
+        
+        var printContents = schedule.outerHTML;
+        var title = '<h1 style="text-align:center;">ACIM Reading Schedule</h1>';
+        printContents = title + printContents;
+        var originalContents = document.body.innerHTML;
+        document.body.innerHTML = printContents;
+        window.print();
+        document.body.innerHTML = originalContents;
+    }
+</script>
+<p><input type="button" onclick="printSchedule()" value="Print a copy" /></p>
+
+
+<table class="reading-schedule">
+    <col width="15%">
+    <col width="60%">
+    <col width="20%">
+    <col width="5%">
+    <thead>
+        <tr>
+            <td></td>
+            <td>Reading</td>
+            <td>ref.</td>
+            <td>✓</td>
+        </tr>
+    </thead>
+    
+    <tbody>
+    {% for day in (0..365) %}
+        {% if day == 0 %}
+        {% assign agenda =  site.data.text_sections[0] %}
+        <tr>
+            <td class="day-number">Start</td>
+            <td class="agenda">{{ agenda.title }}</td>
+            <td class="ref">{{ agenda.reference }}</td>
+            <td class="checkbox">□</td>
+        </tr>
+        <span class="display-none">{% increment section_num %}</span>
+        {% continue %}
+        {% endif %}
+
+        {% assign agenda =  site.data.text_sections[section_num] %}
+        {% if agenda %}
+        <tr>
+            <td class="day-number">Day {{ day }}</td>
+            <td class="agenda">{{ agenda.title }}</td>
+            <td class="ref">{{ agenda.reference }}</td>
+            <td class="checkbox">□</td>
+        </tr>
+        <span class="display-none">{% increment section_num %}</span>
+        {% else %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    </tbody>
+</table>
