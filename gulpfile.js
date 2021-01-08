@@ -55,6 +55,8 @@ gulp.task("build:styles:prod", function() {
     on("error", fancyLog.error);
 });
 
+
+// Images
 const buildImages = destDir => {
   return gulp.src(paths.src.imageFilesGlob).
     pipe(imagemin()).
@@ -70,14 +72,30 @@ gulp.task("build:images:prod", function() {
   return buildImages(paths.docs.imagesDir);
 });
 
+// Generic Files
+gulp.task("build:files:dev", function() {
+  return gulp.src(paths.src.filesDir + "*")
+  .pipe(gulp.dest(paths.public.filesDir))
+  .on("error", catchError);;
+});
+
+gulp.task("build:files:prod", function() {
+  return gulp.src(paths.src.filesDir + "*")
+  .pipe(gulp.dest(paths.docs.filesDir))
+  .on("error", catchError);;
+})
+
+
+// Watch Task
 gulp.task("watch:assets", function() {
   gulp.watch(paths.src.imageFilesGlob, gulp.series("build:images:dev"));
   gulp.watch(paths.src.sassFilesGlob, gulp.series("build:styles:dev"));
+  gulp.watch(paths.src.filesFilesGlob, gulp.series("build:files:dev"));
 });
 
 // composite and default task
 gulp.task("build",
-  gulp.series("build:images:prod", "build:styles:prod"));
+  gulp.series("build:images:prod", "build:styles:prod", "build:files:prod"));
 gulp.task("dev",
   gulp.series("build:images:dev", "build:styles:dev", "watch:assets"));
 gulp.task("default", gulp.series("dev"));
