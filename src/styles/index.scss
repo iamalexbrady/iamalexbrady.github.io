@@ -1,0 +1,17 @@
+.jumbotron {
+	margin-bottom: 2em;
+
+	& > * {
+		flex-basis: 50%;
+		flex-grow: 0;
+		flex-shrink: 0;
+	}
+
+	.sup {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+		font-size: x-large;
+	}
+}
