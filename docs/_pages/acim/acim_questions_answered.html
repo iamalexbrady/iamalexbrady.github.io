@@ -1,0 +1,32 @@
+---
+layout: default
+title: ACIM Questions Answered
+permalink: /acim/questions-answered/
+body_class: acim
+external_selector: acim-questions-answered
+custom_menu_order: 7
+---
+<h1>ACIM Questions Answered</h1>
+<div class="text-small">
+    <p>
+        alex brady's answers to common ACIM answers.
+    </p>
+
+    <p>
+        Contact me on any social media network or email iamalexbrady@gmail if you have questions or clarifications.
+    </p>
+
+    <p>
+        <a href="/acim/text/">ACIM Text</a> | <a href="/acim/workbook/">ACIM Workbook</a> | <a href="/acim/manual-for-teachers/">ACIM Manual</a>
+    </p>
+</div>
+
+<div class="region">
+    <div class="link-btn-list">
+        {% for question in site.acim_qnas %}
+
+        <p><a href="{{question.url}}">{{question.label}}</a></p>
+
+        {% endfor %}
+    </div>
+</div>

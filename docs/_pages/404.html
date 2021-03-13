@@ -1,0 +1,24 @@
+---
+layout: page
+title: Page Not Found
+permalink: /404.html
+sitemap:
+    exclude: "yes"
+---
+
+<p>The requested page was not found.</p>
+
+<p>Our pages:</p>
+<ul style="columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;">
+	{% for page in site.pages %}
+		{% if page.title %}
+			<li><a href="{{page.url}}">{{page.title}}</a></li>
+		{% endif %}
+	{% endfor %}
+</ul>
+
+<div class="text-center">
+	<img src="/assets/img/goose_1.png" alt="one goose" width="300px"/>
+</div>

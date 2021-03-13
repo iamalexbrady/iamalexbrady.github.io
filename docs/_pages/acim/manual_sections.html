@@ -9,33 +9,39 @@ custom_menu_order: 6
 {% assign sections_by_chapter = site.data.manual_sections | group_by: "chapter" %}
 
 <h1>ACIM Manual for Teachers</h1>
-<p>
-    <b>ACIM's Manual for Teachers</b> is a collection of questions and answers meant to guide "teachers of God" on Earth. These are humans and students aspiring to see oneness in everything, let go of all individual and separate interests, and be fully guided by the "voice" of the Internal Guidance.
-</p>
+<div class="text-small">
+    <p>
+        <b>ACIM's Manual for Teachers</b> is a collection of questions and answers meant to guide "teachers of God" on Earth. These are humans and students aspiring to see oneness in everything, let go of all individual and separate interests, and be fully guided by the "voice" of the Internal Guidance.
+    </p>
 
-<p>
-    <a href="https://iamalexbrady.com/blogs/abcim/get-a-course-in-miracles" target="_blank">PDF and physical copies</a> available.
-</p>
+    <p>
+        <a href="https://iamalexbrady.com/blogs/abcim/get-a-course-in-miracles" target="_blank">PDF and physical copies</a> available.
+    </p>
 
-<p>
-    <a href="/acim/text/">ACIM Text</a> | <a href="/acim/workbook/">ACIM Workbook</a>
-</p>
+    <p>
+        <a href="/acim/text/">ACIM Text</a> | <a href="/acim/workbook/">ACIM Workbook</a>
+    </p>
 
-{% for chapter in sections_by_chapter %}
-<p>
-    <div class="card">
-        <div class="card-body">
-        {% for section in chapter.items %}
-        <a href="{{ section.url }}" target="_blank">
-                <p>
-                    {% if forloop.first == false %} <span class="text-small"> {% endif %}
-                    {{ section.title }}
-                    {% if forloop.first == false %} ({{ section.reference }})</span> {% endif %}
-                    {% if forloop.first == false %}</span>{% endif %}
-                </p>
-        </a>
-        {% endfor %}
+</div>
+
+<div class="region">
+    <h2>Manual for Teachers</h2>
+    {% for chapter in sections_by_chapter %}
+    <p>
+        <div class="card">
+            <div class="card-body">
+            {% for section in chapter.items %}
+            <a href="{{ section.url }}" target="_blank">
+                    <p>
+                        {% if forloop.first == false %} <span class="text-small"> {% endif %}
+                        {{ section.title }}
+                        {% if forloop.first == false %} ({{ section.reference }})</span> {% endif %}
+                        {% if forloop.first == false %}</span>{% endif %}
+                    </p>
+            </a>
+            {% endfor %}
+            </div>
         </div>
-    </div>
-</p>
-{% endfor %}
+    </p>
+    {% endfor %}
+</div>
