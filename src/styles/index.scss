@@ -1,3 +1,5 @@
+@import "variables";
+
 .jumbotron {
 	margin-bottom: 2em;
 
@@ -13,5 +15,18 @@
 		align-items: center;
 		justify-content: center;
 		font-size: x-large;
+	}
+}
+
+#call-to-action {
+	.cta {
+		background-color: $ab-black;
+		color: $ab-white;
+		padding: $spacing-md;
+		margin-bottom: $spacing-md;
+
+		& > *:last-child {
+			margin-bottom: 0;
+		}
 	}
 }
