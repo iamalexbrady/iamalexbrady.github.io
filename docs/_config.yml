@@ -43,3 +43,7 @@ collections:
     output: true
     sort_by: path
     permalink: /acim/question/:name:output_ext
+  artifacts:
+    output: true
+    sort_by: order
+    permalink: /ab-sees/artifact/:title:output_ext
