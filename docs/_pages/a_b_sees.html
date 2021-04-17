@@ -5,7 +5,7 @@ permalink: /a-b-sees/
 body_class: a-b-sees
 external_selector: a-b-sees
 ---
-<p>All materials are provided with the expressed purpose of facilitating the enlighening and awakening of all. Everyone's welcome.<br>- alex brady</p>
+<p>All materials are provided with the expressed purpose of facilitating the enlightening and awakening of all. Everyone's welcome.<br>- alex brady</p>
 
 <p>
 	Stay in contact on <a href="https://twitter.com/iamalexbrady" target="_blank">Twitter</a> and subscribe to a.b's <a href="https://www.getrevue.co/profile/iamalexbrady" target="_blank">new letters</a> for notifications on new postings and Mind ID information.
@@ -15,23 +15,32 @@ external_selector: a-b-sees
 	<h2>Mind Identity Theory</h2>
 	<p>The science of personal salvation.</p>
 	<p><a href="{{ site.url }}/assets/files/mind_id_v2.pdf" target="_blank">MIT Version 2</a> - Current draft of Mind Identity Theory principles</p>
-	<p><a href="https://www.youtube.com/playlist?list=PLQUn1ahLSHyXSNJq3ua2qOYJm1Bxsm5bM">Mind Identity</a> YouTube playlist</p>
+	<p><a href="https://www.youtube.com/playlist?list=PLQUn1ahLSHyXSNJq3ua2qOYJm1Bxsm5bM">Mind Identity</a> - YouTube playlist</p>
 </div>
 
 <div class="region">
 	<h2>Articles and Notes</h2>
-	<p>Articles are planned and well-formatted text based resources. Notes are what I jot down as I learn from Higher Self. Notes are raw stream of thought and probably <i>more</i> correct than an well-formatted version of the same information. Articles are notes I spend time making legible.</p>
+	<p>Articles are planned and well-formatted text based resources. Notes are what I jot down as I learn from Higher Self. Notes are raw stream of thought and probably <i>more</i> revealing than an well-formatted version of the same information. Articles are notes I spend time making legible.</p>
 	{% assign articles = site.articles | reverse %}
 	{% for article in articles %}
-		<div class="mb-2">{{ forloop.index }}. <a href="{{ article.url }}">{{ article.title }}<a/></div>
+		<div class="mb-2">
+			{{ forloop.index }}. <a href="{{ article.url }}">{{ article.title }}<a/>
+		</div>
 	{% endfor %}
 </div>
 
 <div class="region">
 	<h2>Video, Audio, and Other</h2>
-	<p>These are non-text resources.</p>
+	<p>These are non-text resources. At this moment, my <a href="https://youtube.iamalexbrady.com">YouTube channel</a> has more content.</p>
+	<video class="w-100 mb-4" controls>
+		<source src="{{ site.url }}/assets/files/mindid_1_introduction.mp4" type="video/ogg">
+	</video>
+	<div class="mb-2">0. <a href="https://www.youtube.com/playlist?list=PLQUn1ahLSHyXTtNP3cdbodlRHrK_geVZI" target="_blank">the alex brady playlist</a> - A youtube playlist of content I find good and great. Spirituality, philosophy, science, comedy.</div>
+
 	{% for asset in site.ab_assets %}
-		<div class="mb-2">{{ forloop.index }}. {{ asset.title }}</div>
+		<div class="mb-2">{{ forloop.index }}. <a href="{{ asset.url }}">{{ asset.title }}<a/>
+			{% if asset.type %}<i class="text-small">({{ asset.type}})</i>{% endif %}
+		</div>
 	{% endfor %}
 </div>
 

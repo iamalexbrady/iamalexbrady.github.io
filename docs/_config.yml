@@ -47,3 +47,6 @@ collections:
     output: true
     sort_by: order
     permalink: /ab-sees/article/:title:output_ext
+  ab_assets:
+    output: true
+    permalink: /ab-sees/asset/:title:output_ext

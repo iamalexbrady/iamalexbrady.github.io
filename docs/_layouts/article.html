@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<div class="asset_wrapper">
+	{% if page.video_src %}
+		<video class="w-100 mb-4" controls>
+			<source src="{{ site.url }}/assets/files/{{ page.video_src }}" type="video/mp4">
+		</video>
+	{% endif %}
+
+	{% if page.audio_src %}
+		<audio controls>
+		  <source src="{{ site.url }}/assets/files/{{ page.audio_src }}" type="audio/mpeg" type="{{ page.audio_mimetype | default: "audio/mp3" }}">
+		</audio>
+	{% endif %}
+</div>
+
 <div class="article-wrapper">
   {{ content | markdownify }}
 </div>
