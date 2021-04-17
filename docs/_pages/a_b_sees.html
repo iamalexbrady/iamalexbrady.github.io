@@ -5,9 +5,10 @@ permalink: /a-b-sees/
 body_class: a-b-sees
 external_selector: a-b-sees
 ---
+<p>All materials are provided with the expressed purpose of facilitating the enlighening and awakening of all. Everyone's welcome.<br>- alex brady</p>
 
 <p>
-	Stay in contact with on Twitter and subscribe to a.b's <a href="https://www.getrevue.co/profile/iamalexbrady" target="_blank">new letters</a> for notifications on new blogs and Mind ID information.
+	Stay in contact on <a href="https://twitter.com/iamalexbrady" target="_blank">Twitter</a> and subscribe to a.b's <a href="https://www.getrevue.co/profile/iamalexbrady" target="_blank">new letters</a> for notifications on new postings and Mind ID information.
 </p>
 
 <div class="region">
@@ -18,10 +19,19 @@ external_selector: a-b-sees
 </div>
 
 <div class="region">
-	<h2>Articles</h2>
+	<h2>Articles and Notes</h2>
+	<p>Articles are planned and well-formatted text based resources. Notes are what I jot down as I learn from Higher Self. Notes are raw stream of thought and probably <i>more</i> correct than an well-formatted version of the same information. Articles are notes I spend time making legible.</p>
 	{% assign articles = site.articles | reverse %}
 	{% for article in articles %}
-		<div class="mb-2">{{ article.order }}. <a href="{{ article.url }}">{{ article.title }}<a/></div>
+		<div class="mb-2">{{ forloop.index }}. <a href="{{ article.url }}">{{ article.title }}<a/></div>
+	{% endfor %}
+</div>
+
+<div class="region">
+	<h2>Video, Audio, and Other</h2>
+	<p>These are non-text resources.</p>
+	{% for asset in site.ab_assets %}
+		<div class="mb-2">{{ forloop.index }}. {{ asset.title }}</div>
 	{% endfor %}
 </div>
 
