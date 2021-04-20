@@ -52,4 +52,4 @@ I call this the rules of BUTTZ
 "God is but Love and therefore so am I."
                🍑🧡
 
-¹ - "buttz" is pronounced /bət/ /bət/ bŭt
+¹ - "buttz" is pronounced /bət/ or /bʌt/ or bŭt
