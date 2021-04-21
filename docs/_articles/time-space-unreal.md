@@ -1,6 +1,6 @@
 ---
 layout: article
-slug: time-space-unreald
+slug: time-space-unreal
 order: 5
 external_selector: time-space-unreal
 title: Time and Space Unreal
