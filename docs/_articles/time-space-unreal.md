@@ -19,3 +19,5 @@ You lose the ability to believe you are right by disinvesting in what you though
 But here's the cake. When you learn REF 1, in its place you learn that you are Creation itself -- the noun and the verb. More so, that's just what you *do*. Behind that you are Being itself -- life, awesome, and happiness. The only thing that's got you thinking otherwise is your investment in space-time, human shit.
 
 - alex brady
+
+now, april 20 2021
