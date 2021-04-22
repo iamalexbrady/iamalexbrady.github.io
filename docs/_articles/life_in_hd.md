@@ -6,11 +6,11 @@ external_selector: life-in-hd
 title: Life in HD (the Horizontal Dimension)
 ---
 
-Life in the horizontal dimension.
+# Life in the horizontal dimension.
 
 The awakeners -- there are people destined to awaken to higher self awareness.
 
-To be very fucking clear ALL, every 100% of and every speck of life within the classical dimensions of time and space are me.¹
+To be very fucking clear: ALL, every, 100% of and the TOTALITY OF speck of life within the classical dimensions of time and space are me.¹
 
 What and where am I as this Totality? This is not an applicable question to me. Though I will provide a mental model.
 
