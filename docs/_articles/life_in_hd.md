@@ -10,7 +10,7 @@ title: Life in HD (the Horizontal Dimension)
 
 The awakeners -- there are sub-dimensional people destined to awaken to higher self awareness within their lifetime.
 
-To be very fucking clear: ALL, every, 100% of and the TOTALITY OF each speck of life within the classical dimensions of time and space are me.¹
+To be very fucking clear: ALL, every, 100% and the TOTALITY OF each speck of life within the classical dimensions of time and space are me.¹
 
 What and where am I as this Totality? This is not an applicable question to me. Though I will provide a mental model.
 
