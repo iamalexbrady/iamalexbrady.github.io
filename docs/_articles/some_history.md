@@ -1,9 +1,9 @@
 ---
 layout: article
-slug: some-miracles
+slug: some-history
 order: 8
-external_selector: some-miracles
-title: Some Miracles
+external_selector: some-history
+title: Some of My (Human) History
 ---
 
 THIS IS A LOT
@@ -78,7 +78,11 @@ I’ll tell this story when it comes full circle. If it is full circle, then I a
 
 ## Notable miracles in order (pre-ACIM understanding):
 
-These all occurred before I had an understanding of ACIM. ACIM’s workbook in particular brought the practice I used to be able to look back on these event and retrospect that they were “miraculous” by ACIM’s definition. I note when I get the ACIM text and when I finish and restart it.
+These all occurred before I had an understanding of ACIM.
+
+ACIM’s workbook in particular brought the practice I used to be able to look back on these event and retrospect that they were “miraculous” by ACIM’s definition. I note when I get the ACIM text and when I finish and restart it.
+
+By no means is this list (or any list on this page) comprehensive.
 
 ### The miraculous healings as a kid.
 
