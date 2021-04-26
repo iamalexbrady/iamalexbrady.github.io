@@ -34,19 +34,29 @@ I had been put off by modern displays of godliness. The way I was taught wasn’
 
 At that point in my life, I had been strongly considering the US military. It was a simple switch of “enlisting” with a Divine Service. I did some formal informal ritual of burning my name on a piece of paper. And said “you have four years with this head, these hands and feet. After that I’m back to the fuck it list. (God is literally the last place you look. Both because faithless ness and you find what you want there)
 
-Life evens out. Great job, no pay. Listen to Eckhart’s New Earth all day at work.
+### Life evens out.
+
+Great job, low pay. Listen to Eckhart’s New Earth all day at work.
+
+### Learn
 
 Get ACIM, start WinCo and start Viking at ~same time. Work, no time for mind, very busy.
 
-Get corporate job. Miracle job. 100% to spec to what I wanted. Over the course of 2 years and 3 pay raises, my salary increased 66%. I left Austin’s tech scene at 101K and a 110K offer on the table. Go figure.
+### Get corporate job.
 
-Insanely ideal Denver apartment. I moved in first year built, sky line, walk to downtown, across from a college campus. Perfect. It was at this location I first experienced a taste of perfect perfection. It was at this location I experienced the view outside of perception. At this location I realized my first physically perceptible miracle.
+Miracle job. 100% to spec to what I wanted. Over the course of 2 years and 3 pay raises, my salary increased 66%. I left Austin’s tech scene at 101K and a 110K offer on the table. Go figure.
+
+### Follow guidance
+
+(See black truck miracle below 👇) Insanely ideal Denver apartment. I moved in first year built, sky line, walk to downtown, across from a college campus. Perfect. It was at this location I first experienced a taste of perfect perfection. It was at this location I experienced the view outside of perception. At this location I realized my first physically perceptible miracle.
 
 After experiences, I began ACIM Workbook. As I went through the workbook, the lesson made sense, and I continued to have moving mental experiences with the forgiveness exercise practice. Eventually I realized maybe what it was saying is true, and the difference of belief necessary was actually believing it. So I started believing it, and here we are.
 
 It's easier to understand if you at least pseudo-believe it. “IF this is true…” Thought experiments. The logical extent of the teachings are comforting in that they give meaning to meaninglessness, and they replace our perceived weakness with infinite power. If we believe.
 
-Where I am currently: I’ll tell this story when it comes full circle. If it is full circle, then I am in Real World right now. Real World is fine!
+### Where I am currently:
+
+I’ll tell this story when it comes full circle. If it is full circle, then I am in Real World right now. Real World is fine!
 
 (Edit (months later): Real world is indeed fine. Atonement accomplished. Truly perfected perception 100%...eh.. even Naz had his moments.)
 
@@ -114,10 +124,6 @@ I began typing in chat to my team (we were remote). My fingers were flying typin
 
 While reading this section (two frames) of ACIM, I had a feeling. It came out of no where and was overwhelmingly good. I call this sensation a love wave now.
 
-## this is now post acim
-
-(Not in temporal order)
-
 ### The Oddly Perfect
 
 I made a list of ideal qualities of a workplace for my first job as a software dev. Got that exact workplace I wanted in Austin, TX. I was out of money when applying for apartments near my first software job. I thought I was; my tax return landed in my account within days of needing to put down a deposit. I got raises without asking, though I can see they were deserved. In 2.5 years on the job in Austin, my pay increased 68% in total. I turned down a job offer that would have brought that total to 79%, and didn’t even mention the higher offer to my then current employer who maybe would have beat the offer.
@@ -146,14 +152,14 @@ God fixed a button on my coat. Weeks after the awakening. I’d bought a new coa
 
 The next day when I put on the coat the button was fixed.
 
----
 
 These were the miracles I experienced that led me to understanding/belief and the ACIM Workbook. The terminology, guidance and “course” of the Workbook is what led to my conviction.
 
 ### knee pain to joy
+
 One miracle from the “course” of the Workbook: Healed knee pain. The day “I choose the joy of God instead of pain” was probably my most stressful while I was in the workbook. It was my first day sleeping in my car, and I hadn’t worked out arrangements yet. About twice an hour at night, I would bang my knee against hard metal, bruise-worthy stings. I was in such bad shape that night, defeated and exhausted, I would repeat the phrase “I choose the joy of G instead of pain.” And the bruise-worthy stings would dissipate.
 
-My journey through the workbook was a jouney of understanding how the radical truths it epouses are true indeed. The moment you learn a radical truth is true, a miracle must have occurred. So for every one I/you learn/will learn, it’s an expressed miracle.
+My journey through the workbook was a journey of understanding how the radical truths it epouses are true indeed. The moment you learn a radical truth is true, a miracle must have occurred. So for every one I/you learn/will learn, it’s an expressed miracle.
 
 You can join me in talking about these and your own experiences at my A Course in Miracles social network OneSelf. The OneSelf social network is for people of all faiths to join in talking about the One Self we share. And the selves we don’t share. It’s a place to practice communication of these subjects that can get a little toasty.
 
