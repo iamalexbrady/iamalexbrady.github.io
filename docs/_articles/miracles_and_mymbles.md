@@ -138,7 +138,6 @@ I was running late to work one morning. Traffic to work normally was creepingly 
 
 I was really very sick with some type of food poisoning.  After spending the afternoon curled on the bathroom floor, I relocated to the bed and tried to calm myself to sleep. Then my awareness was pulled away from perception. There was the world that I had previously identified as 100% of all that could be, and there was MORE. It was as if I was a sticker peeled away from the surface I’d been stuck to, in the process being moved through and into a previously not experienced dimension. All the world of perception became like a flat disc in my vision and it’s unreality and the reality of MORE were abundantly apparent.
 
-(I re-found this description by Tolle in 2021; it was like this.) The recollection he has at the beginning of A New Earth, his "I can't live with myself" and the experience of "the vpid" or how he calls it. Find the full book read on YouTube and watch like 20 minutes.
 
 A voice said in my head 6 times “There is literally nothing to be afraid of.” And after the sixth time, I actually mentally relaxed a bit and appreciated the view. Memory of that moment of deep understanding faded over time. I knew what I’d seen and attributed it to my studies in ACIM. I started the workbook after this.
 
@@ -152,6 +151,7 @@ God fixed a button on my coat. Weeks after the awakening. I’d bought a new coa
 
 The next day when I put on the coat the button was fixed.
 
+(Eckhart Tolle describes a similar experience as his "view of more" and the start of his spiritual career.)
 
 These were the miracles I experienced that led me to understanding/belief and the ACIM Workbook. The terminology, guidance and “course” of the Workbook is what led to my conviction.
 
@@ -166,6 +166,8 @@ You can join me in talking about these and your own experiences at my A Course i
 (this toast, probably)(burnt toast)(🔥🍞)
 
 ## Actual A Course in Miracles:
+
+How I consumed the course with the caveat that I am still reading daily as of 4/2021.
 
 Text only first. Finish 6 months. Restart Text.
 
