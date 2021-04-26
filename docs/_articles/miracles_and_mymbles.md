@@ -14,7 +14,7 @@ Once you begin to realize the clockwork like nature of the intricacies of your p
 
 ## Notable life situations
 
-* Realize the state of Samvega (Google it)
+### Realize the state of Samvega (Google it)
 
 Mother died year previous and struck me that the next day after her death the world kept turning as if nothing happened. All victories and defeats within that lifetime disappeared. The were objectively nothing.
 
@@ -30,7 +30,7 @@ It was at this point a thought struck me… “I’ve never given God a chance�
 
 I had been put off by modern displays of godliness. The way I was taught wasn’t right for me.
 
-* Concious dedication.
+### Concious dedication.
 
 At that point in my life, I had been strongly considering the US military. It was a simple switch of “enlisting” with a Divine Service. I did some formal informal ritual of burning my name on a piece of paper. And said “you have four years with this head, these hands and feet. After that I’m back to the fuck it list. (God is literally the last place you look. Both because faithless ness and you find what you want there)
 
