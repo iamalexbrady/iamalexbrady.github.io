@@ -58,7 +58,7 @@ It's easier to understand if you at least pseudo-believe it. “IF this is true�
 
 I’ll tell this story when it comes full circle. If it is full circle, then I am in Real World right now. Real World is fine!
 
-(Edit (months later): Real world is indeed fine. Atonement accomplished. Truly perfected perception 100%...eh.. even Naz had his moments.)
+(Edit (months later): Real world is indeed fine. Atonement accomplished. Truly perfected perception 100%...eh.. even Naz had his moments. In time I am learning more and am more "forgiving" each day. I can also see "outside of time", so the question is moot. But time is still apparent as well most time. There is also Now, and I remember that even when I am seeing time.)
 
 ## Notable Consumption (in order):
 * The other side of the hedge
