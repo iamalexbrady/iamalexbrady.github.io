@@ -21,7 +21,7 @@ external_selector: a-b-sees
 <div class="region">
 	<h2>Articles and Notes</h2>
 	<p>Articles are planned and well-formatted text based resources. Notes are what I jot down as I learn from Higher Self. Notes are raw stream of thought and probably <i>more</i> revealing than an well-formatted version of the same information. Articles are notes I spend time making legible.</p>
-	{% assign articles = site.articles | reverse %}
+	{% assign articles = site.articles | sort: 'order' %}
 	{% for article in articles %}
 		<div class="mb-2">
 			{{ forloop.index }}. <a href="{{ article.url }}">{{ article.title }}<a/>

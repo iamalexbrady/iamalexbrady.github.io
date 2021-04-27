@@ -6,9 +6,9 @@ external_selector: law-of-buttz
 title: The Law of Buttz
 ---
 
-# the law of buttz
+# the law of buttz¹
 
-Listen this is only about buttz
+Listen, this is only about buttz
 
 ("Oh my gawd" -christ showed up)
 
@@ -43,7 +43,7 @@ Buttz are FUNNY. But that and only that.
               Juiciest (  Y  )
           end ad
 ```
-          *what a juicy ad*
+               *what a juicy ad*
 
 I call this the rules of BUTTZ
 
