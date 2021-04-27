@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
     <head>
         {% if page.url == '/404.html' %}
-        <meta name="robots" content="noindex, nofollow">
+        <meta name="robots">
         {% endif %}
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -23,6 +23,15 @@
         <link rel="stylesheet" type="text/css" href="{{site.url | append: '/assets/css/' | append: site.data.rev-manifest['styles.min.css']}}">
         {% endif %}
 
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-LV7Z4N1SQY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-LV7Z4N1SQY');
+        </script>
     </head>
     <body id="top" class="light-mode {{page.body_class}}">
 
