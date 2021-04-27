@@ -23,6 +23,7 @@
         <link rel="stylesheet" type="text/css" href="{{site.url | append: '/assets/css/' | append: site.data.rev-manifest['styles.min.css']}}">
         {% endif %}
 
+        {% unless site.custom_settings.is_development %}
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-LV7Z4N1SQY"></script>
         <script>
@@ -32,6 +33,7 @@
 
           gtag('config', 'G-LV7Z4N1SQY');
         </script>
+        {% endunless %}
     </head>
     <body id="top" class="light-mode {{page.body_class}}">
 
