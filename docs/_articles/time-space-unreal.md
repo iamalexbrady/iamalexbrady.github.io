@@ -24,6 +24,6 @@ But here's the cake. When you learn REF 1, in place of spacetime you learn that 
 
 ¹ - thats part of the main issue with modern humanity at large.² We are so identified with our beliefs, we are unwilling to consider new beliefs, labeling *other* ideas wrong before giving true intellectual consideration.
 <br>Moreover, we'll often **double-down** on beliefs just to "prove" they must be right by our show of conviction. That is an immature maneuver that proves nothing but stubbornness.
-<br>To learn something new, one must pick up the new belief and truly examine it with curiosity and open-mindedness. If the new idea is found true and useful, but contradicts old ideas...It's time to put down the old ideas. This is simple learning and growing.
+<br>To learn something new, one must pick up the new belief and truly examine it with curiosity and open-mindedness. If the new idea is found true and useful, keep it and use it. If it contradicts old ideas...It's time to put down the old ideas. This is simple learning and growing.
 
 ² - emojis.. j/k I love em 😂
