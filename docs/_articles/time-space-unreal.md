@@ -14,10 +14,14 @@ The effect of this truth is that none of the stage forms within time and space a
 
 An intermediary goal of returning to Knowledge is DISinvestment. Perception makes up our reality. What we *think* is happening is what we ... think is happening. It is not what is *actually* happening. This is true within our personal social lives as well as the fundamental truth stated as REF 1.
 
-You lose the ability to believe you are right by disinvesting in what you thought was right. For a split second....you have to be willing to.....😰....change your mind 😱.
+By disinvesting in belief in what you *thought* was right, you must admit you may be have something to learn. For a split second....you have to be willing to.....😰....change your mind 😱.
 
 But here's the cake. When you learn REF 1, in its place you learn that you are Creation itself -- the noun and the verb. More so, that's just what you *do*. Behind that you are Being itself -- life, awesome, and happiness. The only thing that's got you thinking otherwise is your investment in space-time, human shit.
 
 - alex brady
 
-now, april 20 2021
+---
+
+¹ - thats part of the main issue with modern humanity at large. We are so identified with our beliefs, we are unwilling to consider new beliefs, labeling *other* ideas wrong before giving true intellectual consideration.
+<br>Moreover, we'll often **double-down** on beliefs just to "prove" they must be right by our show of conviction. That is an immature maneuver that proves nothing but stubbornness.
+<br>To learn something new, one must pick up the new belief and truly examine it with curiosity and open-mindedness. If the new idea is found true and useful, but contradicts old ideas...It's time to put down the old ideas. This is simple learning and growing.
