@@ -28,6 +28,8 @@ God being proven real⁸ is the best experience in the world 💯.⁹
 
 - alex brady
 
+---
+
 
 ¹ - that is all anyone needs. "All we need is Love" truly. The rememberance that this nightmarescape is but a dream.
 
@@ -48,4 +50,6 @@ God being proven real⁸ is the best experience in the world 💯.⁹
 ⁹ - T 7 F 13. The whole glory and perfect joy that IS the Kingdom lies in you to 
 give. Do you not WANT to give it? You CANNOT forget the Father because I am with you and I CANNOT forget Him. To forget ME is to forget yourself and Him who created you. Our brothers ARE forgetful. That is why they need your remembrance of Me and Him who created Me. Through this remembrance you can change THEIR minds about themselves, as I can change YOURS. Your minds are so powerful a light that you can look into theirs and enlighten them, as I can enlighten yours.
 
-¹⁰ - (edit: 4/28/21): I just realized the pun involved in this peculiar instance. A resolution of this particular forgiveness exercise. A beautiful synchronicity. Much thanks to all parties involved.
+¹⁰ - (edit: 4/28/21): I just realized the pun¹¹ involved in this peculiar instance. It's pretty involved and personal.. But it *is* a resolution of this particular forgiveness exercise. A beautiful synchronicity. Much thanks to all parties involved.
+
+¹¹ - a play on words. Although play on *form* may be a more appropriate term. A live action parable. A living allegory.
