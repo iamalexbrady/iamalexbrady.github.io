@@ -14,7 +14,7 @@ The effect of this truth is that none of the stage forms within time and space a
 
 An intermediary goal of returning to Knowledge is DISinvestment. Perception makes up our reality. What we *think* is happening is what we ... think is happening. It is not what is *actually* happening. This is true within our personal social lives as well as the fundamental truth stated as REF 1.
 
-By disinvesting belief in what you *thought* was right, you must admit that maybe you have something new to learn. For a split second....you have to be willing to.....😰....change your mind 😱.¹
+To disinvest belief in what you *thought* was right, you must admit that maybe you have something new to learn. For a split second....you have to be willing to.....😰....change your mind 😱.¹
 
 But here's the cake. When you learn REF 1, in place of spacetime you learn that you are Creation itself -- the noun and the verb. More so, that's just what you *do*. Behind that you are Being itself -- life, awesome, and happiness. The only thing that's got you thinking otherwise is your investment in space-time, human shit.
 
