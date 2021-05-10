@@ -32,3 +32,16 @@ title: Return to Godstate
 You will begin to understand your divinity, mind supremacy, within perception. This is highly desirable. When you are ready, and only then, you will experience Divinity beyond perception. 
 
 - alex brady
+
+<hr>
+
+Reference:
+
+ACIM Urtext
+
+T 7 C 6. *Outside* the Kingdom, the law which prevails *inside* it is *adapted* to 
+“what you project you believe.” This is its *teaching* form, because outside the 
+Kingdom teaching is mandatory because learning is essential. This form of the law 
+clearly implies that you will learn what *you* are from what you have projected onto others and therefore believe *they* are. *In* the Kingdom, there is no teaching *or* learning, because there is no **belief**. There is only **certainty**. God and His Sons, in the surety of Being, *know* that what you project you *are*.
+
+T 7 C 7. That form of the law is **not** adapted at all, being the Law of Creation. 
