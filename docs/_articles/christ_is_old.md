@@ -20,4 +20,6 @@ This is enough for stage 1 understanding.
 
 When you are ready (aka able) to recognize that *nothing* is as it seems, add this idea: time is happening all at once as well.
 
+Next, consider this: time isn't real at all. Christ Mind simply *knows* all of time, and hasn't aged one bit. The concept of "age" necessarily requires time which, as stated, isn't real at all.
+
 - alex brady
