@@ -50,3 +50,7 @@ collections:
   ab_assets:
     output: true
     permalink: /ab-sees/asset/:title:output_ext
+  urtext:
+    output: true
+    sort_by: order
+    permalink: /acim/:title:output_ext
