@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: urtext
 slug: chapter-4
 order: 22
 external_selector: chapter-4
