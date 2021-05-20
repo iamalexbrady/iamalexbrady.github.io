@@ -21,3 +21,15 @@ I want nothing more than to teach you you are me. And remind you the all-power t
 Miracles are our/ your/ My birthright. 
 
 <span style="text-align:center;font-weight:bold;">- alexbrady<span>
+
+---
+
+```
+~T 8 C 6. We said before that the Holy Spirit teaches you the difference between 
+pain and joy. That is the same as saying that HS teaches you the difference 
+between imprisonment and freedom. YOU CANNOT MAKE THIS DISTINCTION WITHOUT HS. 
+
+That is because you have taught YOURSELF that imprisonment IS freedom. Believing 
+them to be the same, how can you tell them apart alone? Can you ask the part of your 
+mind that taught you to believe they ARE the same to teach you the DIFFERENCE?
+```
