@@ -12,15 +12,15 @@ How this plays out:::
 
 People, once knowing the HS as a true, reliable guiding faculty in their mind and life, ask the HS for guidance on *life situations*. This *is* an appropriate use for one who a) is still in perception, and/or b) is still in the trust building phase of their relationship.
 
-HS's true power shines when you begin to ask for guidance on How You Are the Son Of God. Ask for Guidance on How to *understand* and *interpret* the words of the course in miracles. H will PROVE TO YOU in no uncertain terms that the words of this course (I can be free of suffering today) are a true statement of your reality.
+HS's true power shines when you begin to ask for guidance on How You Are the Son Of God. Ask for Guidance on How to *understand* and *interpret* the words of the course in miracles. H will PROVE TO YOU in no uncertain terms that the words of this course (I am as God created me.) are a true statement of your reality.
 
-If you do not yet believe the statement "I can be free of suffering today", ask for the proof of its verity from One who knows. If you regard that previous idea "radical", your own resistance will delay your reception of the truth from HS. Start the journey of learning Course Fundamentals from the One that Knows with statements you subjective regard *less radical* or neutral.
+If you do not yet believe a statement like "I can be free of suffering today", ask for the proof of its verity from One who knows. If you regard that previous idea "radical", your own resistance will delay your reception of the truth from HS. Start the journey of learning Course Fundamentals from the One that Knows with statements you subjective regard *less radical* or neutral.
 
-Attempt the lessons expecting to receive **a whole new to you understanding** that the lesson title is **truth**.¹
+Attempt the lessons expecting to receive **a whole *new to you* understanding** that the lesson title is **truth**.¹
 
-I can see peace instead of this. Miracles are seen in light (and light and strength are one.) **Do the attached meditative exercises**, and be in high awareness during your days activities.
+I can see peace instead of this. Miracles are seen in light (and light and strength are one.) *Do the attached meditative exercises*, and be in high awareness during your days activities. You are set to learn something *ridiculously* new. Something God knows about you, but you've been blind to your whole seeming existence.
 
-If you are considering a thought with an attached meditative exercise that is intentionally light (the early lessons), do the meditative practice from lesson 41.
+The meditative practice from lesson 41 is *perfect* for setting your mind up for a Forgivenesz² mindset.
 
 If you do not yet regard Higher Self as a reputable and trust worthy source of guidance, you have to get to that point to experience the benefits. Willingly and intentionally allow HS room in your life situation to prove trust is warranted. Your desire *not to* ask for and receive guidance will be the experiences provided by internal guidance -- You flailing wildly attempting to avoid an *inevitable* death. You want it, you got it.
 
@@ -45,3 +45,7 @@ Do it expecting to receive **a whole new to you understanding** that the lesson 
 Do it expecting to receive **a whole new to you understanding** that the lesson title is **truth**.
 
 (expect resistance, your willingness to continue through resistance is the willingness to see the goal of salvation through to fruition)
+
+² - I haven't defined this explicitly yet, but it means ACIM's forgiveness, not historical "false forgiveness."
+
+See the acim question answered: What is Forgiveness?
