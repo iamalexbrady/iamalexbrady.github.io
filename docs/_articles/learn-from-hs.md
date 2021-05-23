@@ -46,6 +46,6 @@ Do it expecting to receive **a whole new to you understanding** that the lesson 
 
 (expect resistance, your willingness to continue through resistance is the willingness to see the goal of salvation through to fruition)
 
-² - I haven't defined this explicitly yet, but it means ACIM's forgiveness, not historical "false forgiveness."
+² - This means ACIM's forgiveness, not historical "false forgiveness."
 
-See the acim question answered: What is Forgiveness?
+See the ACIM Question Answered: [What is Forgiveness?](https://iamalexbrady.com/acim/question/06-what-is-forgiveness.html)
