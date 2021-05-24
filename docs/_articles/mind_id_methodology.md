@@ -10,7 +10,7 @@ Mind Identity is based almost *exclusively* on ACIM teachings. The Mind Identity
 
 ## Method 1
 
-Because studies have shown that ACIM *works*, Principles, theories and concepts are distill *from* ACIM canon. That is to say the words of ACIM are reduced  bite-sized heuristics and testable theorems.
+Because [studies have shown]({{site.url}}/ab-sees/asset/acim-effects-study.html) that ACIM *works*, Principles, theories and concepts are distill *from* ACIM canon. That is to say the words of ACIM are reduced  bite-sized heuristics and testable theorems.
 
 There are *no* Mind Identity Principles that cannot be fully accredited to the words of ACIM's 3 primary works: the a) Text, b) Workbook, and c) Manual.
 

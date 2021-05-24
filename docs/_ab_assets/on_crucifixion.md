@@ -7,6 +7,6 @@ audio_src: on_crucifixion.m4a
 type: audio
 ---
 
-Unedited commentary on the crucifixion of JEsus of Nazareth according to ACIM and Mind ID principles.
+Unedited commentary on the crucifixion of Jesus of Nazareth according to ACIM and Mind ID principles.
 
 - alex brady

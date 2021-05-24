@@ -19,6 +19,10 @@ layout: default
 		  <source src="{{ site.url }}/assets/files/{{ page.audio_src }}" type="audio/mpeg" type="{{ page.audio_mimetype | default: "audio/mp3" }}">
 		</audio>
 	{% endif %}
+
+	{% if page.pdf_src %}
+		<iframe src="{{ site.url }}/assets/files/{{ page.pdf_src }}" width="100%" height="1000px">
+	{% endif %}
 </div>
 
 <div class="article-wrapper">
