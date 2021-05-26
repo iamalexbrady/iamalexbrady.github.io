@@ -7,6 +7,10 @@ layout: default
 	<a href="{{ ab_sees.permalink }}">< Back to a.b sees directory</a>
 </div>
 
+{% if page.title %}
+	<h2>{{ page.title | markdownify }}</h2>
+{% endif %}
+
 <div class="asset_wrapper">
 	{% if page.video_src %}
 		<video class="w-75 mb-4" controls>
