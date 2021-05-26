@@ -7,7 +7,7 @@ title: alexbrady is (1/infinite)
 paper_type: article
 ---
 
-# alex brady is Part 1
+(part 1 of an infinite series)
 
 alex brady is a whole \*\*\*\*\*\* \*\*\*\*\*\*\*\*\* lot. This is part one in an infinite series on the defintions of alex brady.
 

@@ -7,9 +7,7 @@ title: Some Human History
 paper_type: article
 ---
 
-THIS IS A LOT
-
-# My (human's) actual course in miracles
+My (human's) actual course in miracles
 
 Once you begin to realize the clockwork like nature of the intricacies of your particular course in miracles, you begin to see that your whole history is involved in the movement/learning/growth.
 

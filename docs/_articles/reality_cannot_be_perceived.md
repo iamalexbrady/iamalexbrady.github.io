@@ -7,8 +7,6 @@ title: Reality cannot be perceived
 paper_type: article
 ---
 
-# Reality cannot be perceived
-
 What we are cannot be perceived. If we define "reality" as what can be perceived, as is historically the case, we will define what we truly are as unreal. As well as the whole set of Real things.¹
 
 Reality is not perceptible. It does produce perception and is reflected² in the objects of perception.

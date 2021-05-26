@@ -7,7 +7,7 @@ title: The Two Options
 paper_type: article
 ---
 
-# Two Options
+Two Options
 
 To believe something within perception is amiss (i.e. wrong), you missing that HS is fully in control of the happening in time and space. You are missing just how ALL-ENCOMPASSING the control of Mind is on this perceptual universe.
 

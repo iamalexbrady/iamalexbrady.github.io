@@ -7,8 +7,6 @@ title: Being of Service
 paper_type: article
 ---
 
-# Being of service
-
 To be of service to another is to provide that one with what they NEED. What that one NEEDS is God's presence, rememberance of God.¹
 
 The only way this can occur is if YOU are in remeberence of God. This means willingly being guided by Holy Spirit in the moment and nothing else.² ³ ⁴ This is teaching miracle-mindedness by demonstration.

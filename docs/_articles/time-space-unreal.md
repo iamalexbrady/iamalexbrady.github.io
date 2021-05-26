@@ -7,8 +7,6 @@ title: Time and Space Unreal
 paper_type: article
 ---
 
-# Time and Space Unreal
-
 Time and space perception are fundamentally UNREAL (REF 1). This is beyond what is necessary to understand in the beginning of the journey to Knowledge. You must, though, be open to consider it.
 
 The effect of this truth is that none of the stage forms within time and space are real at all. The belief in spacetime is not painful, but the *investment* in what is going on therein is the problem.

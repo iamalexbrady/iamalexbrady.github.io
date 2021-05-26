@@ -7,7 +7,7 @@ title: The Law of Buttz
 paper_type: article
 ---
 
-# the law of buttz¹
+the law of buttz¹
 
 Listen, this is only about buttz
 

@@ -13,7 +13,7 @@ paper_type: article
     {% endif %}
 {% endfor %}
 
-# A Shortlist of Unlearnable¹ Concepts
+A Shortlist of Unlearnable¹ Concepts
 
 The following is a list of concpets that we currently believe are possible. These concepts exist within the state of perception, but do *not* exist within the state of Truth. Again, these are experiencable within perception, but **are not real** in Reality ([See: HD]({{ life_in_hd_url }})).
 

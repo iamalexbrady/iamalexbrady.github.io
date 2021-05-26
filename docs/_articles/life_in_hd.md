@@ -7,7 +7,7 @@ title: Life in HD (the Horizontal Dimension)
 paper_type: article
 ---
 
-# Life in the horizontal dimension.
+Life in the horizontal dimension.
 
 The awakeners -- there are sub-dimensional people destined to awaken to higher self awareness within their lifetime.
 

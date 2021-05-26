@@ -7,7 +7,7 @@ title: Return to Godstate
 paper_type: article
 ---
 
-## To realize you are as God created you
+**To realize you are as God created you:**
 
 1. Understand you are still actively currently and now in heaven, following the Laws of God
 

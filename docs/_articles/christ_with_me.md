@@ -7,7 +7,7 @@ title: Christ is with Me
 paper_type: article
 ---
 
-## What I mean when I say Christ is with me:
+What I mean when I say Christ is with me:
 
 First of all, the "me" I speak in the title is the human manifestation that types words onto the internet.
 
