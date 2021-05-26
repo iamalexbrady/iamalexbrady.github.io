@@ -4,6 +4,7 @@ slug: terrifying-to-ego
 order: 22
 external_selector: terrifying-to-ego
 title: Mind Identity is terrfying to the ego.
+paper_type: article
 ---
 
 I understand that. I expect even many hardline acim-ers are going to not totally agree with the Mind Identity -> A Course in Miracles.

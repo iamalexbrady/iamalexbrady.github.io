@@ -4,9 +4,10 @@ slug: christ-is-not-a-dream
 order: 20
 external_selector: christ-is-not-a-dream
 title: This is real and unlike dream things.
+paper_type: article
 ---
 
-What is lost in many even strong believers is that this is not a story. It is a description of effects that are occurring *now**.
+What is lost in many even strong believers is that this is not a story. It is a description of effects that are occurring *now*\*.
 
 Ego is not "oh he hurt me and then it..."
 
@@ -35,3 +36,5 @@ Pertinent lessons: 35, 41, 73-76, 95, 107 maybe 106, 191, (incomplete list)
 ² - Linearly, for clarification but not in truth: "It becomes."
 
 ³ - the understanding presented in this very writing
+
+* - real now. as in now.

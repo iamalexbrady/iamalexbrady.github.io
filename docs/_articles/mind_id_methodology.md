@@ -4,6 +4,7 @@ slug: mind-id-methodology
 order: 23
 external_selector: mind-id-methodology
 title: Mind ID Methodology
+paper_type: article
 ---
 
 Mind Identity is based almost *exclusively* on ACIM teachings. The Mind Identity Principles come together in two co-intertwined methods:

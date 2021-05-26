@@ -4,6 +4,7 @@ slug: other-peoples-poop
 order: 15
 external_selector: other-peoples-poop
 title: Other People's Poop
+paper_type: article
 ---
 
 Considering whether other people's overt shittiness is similar to my behavior. Other people behave shittily because they perceive me¹ as being shitty first. So they are outwardly shitty because they feel inwardly shitty first.

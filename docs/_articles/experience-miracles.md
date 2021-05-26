@@ -4,6 +4,7 @@ slug: experience-miracles
 order: 17
 external_selector: experience-miracles
 title: experience miracles with HS
+paper_type: article
 ---
 
 Higher self is *within you*. Within your mind (where else would self be?) Hs is an accessible intelligence that teaches you *you are it*. How?  It provides you with experiences that prove it. (More accurately, it provides you with interpretations of experiences. New perceptions.)

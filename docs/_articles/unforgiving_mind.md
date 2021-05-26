@@ -4,6 +4,7 @@ slug: the-unforgiving-mind
 order: 1
 external_selector: the-unforgiving-mind
 title: The Unforgiving Mind
+paper_type: article
 ---
 
 # The Unforgiving Mind

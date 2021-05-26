@@ -4,6 +4,7 @@ slug: law-of-buttz
 order: 4
 external_selector: law-of-buttz
 title: The Law of Buttz
+paper_type: article
 ---
 
 # the law of buttz¹

@@ -4,6 +4,7 @@ slug: being-of-service
 order: 9
 external_selector: being-of-service
 title: Being of Service
+paper_type: article
 ---
 
 # Being of service

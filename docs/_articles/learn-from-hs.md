@@ -4,6 +4,7 @@ slug: learn-from-hs
 order: 21
 external_selector: learn-from-hs
 title: HS teaches you how to attain *Knowledge*
+paper_type: article
 ---
 
 # HS's true power shines when you begin to ask for guidance on How You Are the Son Of God.

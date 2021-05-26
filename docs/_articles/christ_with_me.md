@@ -4,6 +4,7 @@ slug: christ-is-with-me
 order: 8
 external_selector: christ-is-with-me
 title: Christ is with Me
+paper_type: article
 ---
 
 ## What I mean when I say Christ is with me:

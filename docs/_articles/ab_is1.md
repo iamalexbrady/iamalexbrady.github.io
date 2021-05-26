@@ -4,6 +4,7 @@ slug: ab-is
 order: 7
 external_selector: ab-is
 title: alexbrady is (1/infinite)
+paper_type: article
 ---
 
 # alex brady is Part 1

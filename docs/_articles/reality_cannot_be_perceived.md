@@ -4,6 +4,7 @@ slug: reality-cannot-be-perceived
 order: 11
 external_selector: reality-cannot-be-perceived
 title: Reality cannot be perceived
+paper_type: article
 ---
 
 # Reality cannot be perceived

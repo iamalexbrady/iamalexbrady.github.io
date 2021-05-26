@@ -4,6 +4,7 @@ slug: the-two-options
 order: 11
 external_selector: the-two-options
 title: The Two Options
+paper_type: article
 ---
 
 # Two Options

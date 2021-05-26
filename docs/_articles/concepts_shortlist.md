@@ -4,6 +4,7 @@ slug: concepts-shortlist
 order: 9
 external_selector: concepts-shortlist
 title: A Shortlist of Concepts
+paper_type: article
 ---
 
 {% for article in site.articles %}

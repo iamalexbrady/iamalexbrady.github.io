@@ -4,6 +4,7 @@ slug: some-human-history
 order: 19
 external_selector: some-human-history
 title: Some Human History
+paper_type: article
 ---
 
 THIS IS A LOT

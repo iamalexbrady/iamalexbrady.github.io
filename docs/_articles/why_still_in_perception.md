@@ -4,6 +4,7 @@ slug: why-in-perception
 order: 14
 external_selector: why-in-perception
 title: Why am I still in Perception?
+paper_type: article
 ---
 
 Q- Why am I still here if we both agree it would be better if I were not? 

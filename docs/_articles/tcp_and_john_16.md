@@ -4,6 +4,7 @@ slug: tcp-and-john-16
 order: 12
 external_selector: tcp-and-john-16
 title: God in TCP (John 16)
+paper_type: article
 ---
 
 THE teacher of God is the Holy Spirit -- the inner guide. There is literally a communication link with your Higher Self within you, in your mind. As in you can talk to God. And God listens and replies, TCP not UDP.¹

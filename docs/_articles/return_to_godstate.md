@@ -4,6 +4,7 @@ slug: return-to-godstate
 order: 3
 external_selector: return-to-godstate
 title: Return to Godstate
+paper_type: article
 ---
 
 ## To realize you are as God created you

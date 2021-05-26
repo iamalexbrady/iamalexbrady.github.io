@@ -4,6 +4,7 @@ slug: christ-is-old
 order: 13
 external_selector: christ-is-old
 title: Christ is Old
+paper_type: article
 ---
 
 **Him: I'm ooold.**

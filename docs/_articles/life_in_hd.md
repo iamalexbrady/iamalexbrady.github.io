@@ -4,6 +4,7 @@ slug: life-in-hd
 order: 6
 external_selector: life-in-hd
 title: Life in HD (the Horizontal Dimension)
+paper_type: article
 ---
 
 # Life in the horizontal dimension.
