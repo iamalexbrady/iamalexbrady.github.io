@@ -1,0 +1,42 @@
+@import "variables";
+
+.urtext {
+
+	.pre-content {
+		width: 100%;
+		margin-bottom: $spacing-md;
+	}
+
+	.prev-next {
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.section-list {
+		a {
+			color: $primary-text-color;
+			&:hover {
+				color: blue;
+			}
+
+			&:visited {
+				color: red;
+			}
+		}
+
+		.chapter {
+			font-weight: bold;
+			margin-top: $spacing-lg;
+		}
+	}
+
+	.article-wrapper {
+		font-family: monospace;
+		font-size: .9em;
+
+		& > p:first-child {
+			font-weight: bold;
+			text-decoration: underline;
+		}
+	}
+}

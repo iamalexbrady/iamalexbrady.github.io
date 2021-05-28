@@ -2,16 +2,65 @@
 layout: default
 ---
 
-<div class="navigation mb-4">
-	{% assign ab_sees = site.pages | where: "external_selector", "a-b-sees" | first %}
-	<a href="{{ ab_sees.permalink }}">< Back to a.b sees directory</a>
-</div>
+{% assign prev_page_order = page.order | minus: 1 %}
 
-<div>
-	<h2>ACIM Urtext</h2>
-	<h2>{{ page.title }}</h2>
-</div>
+{% assign next_page_order = page.order | plus: 1 %}
 
-<div class="article-wrapper">
-  {{ content | markdownify }}
+{% for section in site.urtext %}
+    {% if section.order == prev_page_order %}
+        {% assign prev_page = section %}
+    {% elsif section.order == next_page_order %}
+        {% assign next_page = section %}
+    {% endif %}
+{% endfor %}
+
+<div class="urtext">
+	<div>
+		<h2>ACIM Urtext Online</h2>
+		<h2>{{ page.title }}</h2>
+	</div>
+
+	<div class="pre-content">
+	    <div class="prev-next">
+	        <div class="previous">
+	            {% comment %} unless block omits "prev" dialog for first question {% endcomment %}
+	            {% unless prev_page_order == 0 %}
+	            <p class="prev-next-label">{{ prev_page.label }}</p>
+	            <a href="{{ prev_page.url }}">&larr; Prev</a>
+	            {% endunless %}
+	        </div>
+
+	        <div class="next">
+	            {% comment %} unless block omits "next" dialog for last question {% endcomment %}
+	            {% unless page.order == site.urtext.size %}
+	            <p class="prev-next-label">{{ next_page.label }}</p>
+	            <a href="{{ next_page.url}}">Next &rarr;</a>
+	            {% endunless %}
+	        </div>
+	    </div>
+	</div>
+
+	<div class="article-wrapper">
+	  {{ content | markdownify }}
+	</div>
+
+	<div class="post-content">
+	    <div class="prev-next">
+	        <div class="previous">
+	            {% comment %} unless block omits "prev" dialog for first question {% endcomment %}
+	            {% unless prev_page_order == 0 %}
+	            <p class="prev-next-label">{{ prev_page.label }}</p>
+	            <a href="{{ prev_page.url }}">&larr; Prev</a>
+	            {% endunless %}
+	        </div>
+
+	        <div class="next">
+	            {% comment %} unless block omits "next" dialog for last question {% endcomment %}
+	            {% unless page.order == site.urtext.size %}
+	            <p class="prev-next-label">{{ next_page.label }}</p>
+	            <a href="{{ next_page.url}}">Next &rarr;</a>
+	            {% endunless %}
+	        </div>
+	    </div>
+	</div>
 </div>

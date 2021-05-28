@@ -1,0 +1,52 @@
+---
+layout: default
+title: A Course in Miracles Text
+permalink: /acim/urtext/
+body_class: 
+external_selector: urtext-index
+custom_menu_order: 7
+---
+
+<div class="urtext">
+	<div>
+		<h2>ACIM Urtext</h2>
+		<h2>{{ page.title }}</h2>
+	</div>
+
+	<div class="subtitle">
+		<div class="text-small">
+		    <p>
+		        Presented are is the ACIM Urtext. The Urtext is the first typewritten draft of ACIM – it reflects what Helen Schucman dictated to Thetford. It was a version of ACIM considered "private" and "not intended for publication" in its pre-edited state. Indeed, reading it does give one the sense that you are peeking into a very private, very personal meeting between the Voice and the Scribes.
+		    </p>
+
+		    <p>Enjoy.</p>
+
+		    <p>
+		        <a href="/acim/get-acim/" target="_blank">Download/Buy ACIM</a>
+		    </p>
+
+		    <p>
+		        <a href="/acim/workbook-lessons/">ACIM Workbook</a> | <a href="/acim/manual-for-teachers/">ACIM Manual</a>
+		    </p>
+		</div>
+	</div>
+
+	<hr>
+
+	{% for section in site.urtext %}
+		{% if section.title contains "Chapter" %}
+			{% assign chapter = true %}
+		{% else %}
+			{% assign chapter = false %}
+		{% endif %}
+
+		<div class="section-list">
+			<p class="{% if chapter %}chapter{% endif %}">
+				<a href="{{ section.url }}">
+					{{ section.title }}
+				</a>
+			</p>
+		</div>
+
+	{% endfor %}
+</div>
