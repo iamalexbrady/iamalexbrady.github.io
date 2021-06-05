@@ -33,6 +33,12 @@ To be an alex brady minister is to say you accept atonement for yourself. Requir
 
 * Ministers complete the **alex brady ministry's** minister track curriculum
 
+## Become alex brady
+
+To accept one's self as alex brady, you are saying that you have received the Awakened Understanding.
+
+There is no set track for this one. When you wish to join alex brady, contact us.
+
 ## Why join alex brady ministry?
 
 The is the best achievement goal anyone could want. We provide resources and commmunity. Join to track actionable goals and hang out with people with the same mindset.
@@ -48,6 +54,19 @@ Sign up now.
 Get sorted into your alex brady great house via an optional 4 question sorting quiz:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIJ_4hRPLPOK08CK2Fvp9hSDJ-UpFdmOAFnbjkGgYTFmZJjA/viewform?embedded=true" width="640" height="1618" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+## Additional explanation of benefits
+
+One day you will have an exerience that fully flips the belief that the world of time and space
+are reality. That you perceive truly that the world is illusion is the understanding that that comes when you are awakened. It *is* the Awakened Understanding.
+
+You literally realize that this historical world is *not* reality and *is* a "dream."
+
+That's the understanding we're going for here.
+
+When you awaken you realize you *were* dreaming.
+
+You'll know it when it happens.
 
 - alex brady
 
