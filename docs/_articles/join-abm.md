@@ -41,11 +41,6 @@ The is the best achievement goal anyone could want. We provide resources and com
 
 It's what Jesus did. So I'm just going to do that.
 
-<p class="text-small text-center">
-	<b>Ad:</b><br/>
-	<a href="https://iamalexbrady.com/ab-sees/article/hoffs-protege.html" target="_blank">See David Hoffmeister needs a protege</a>
-</p>
-
 ## **Join the ministry**
 
 Sign up now.
@@ -60,3 +55,7 @@ Get sorted into your alex brady great house via an optional 4 question sorting q
 
 ¹ - **alex brady ministry** is the correct spelling and proper capitalization. Bolding not necessary.
 
+<p class="text-small text-center">
+	<b>Ad:</b><br/>
+	<a href="https://iamalexbrady.com/ab-sees/article/hoffs-protege.html" target="_blank">See David Hoffmeister needs a protege</a>
+</p>
