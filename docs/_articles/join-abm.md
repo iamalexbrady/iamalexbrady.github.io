@@ -17,7 +17,7 @@ I've decided to start a ministry. I think it'll go pretty well.
 
 * Self-Study track to attain the title of ACIM Minister for the **alex brady ministry**¹.
 
-* The undeniable experience that Christ is real as defined by A Course in Miracles. This one is a miracle.
+* The undeniable experience that Christ is real as defined by A Course in Miracles. (This one is a miracle.)
 
 ## How this will work:
 
@@ -35,17 +35,22 @@ To be an alex brady minister is to say you accept atonement for yourself. Requir
 
 ## Why join alex brady ministry?
 
-The is the best achievement goal anyone could want. We You don't have to be a member to be provided those resources. Join to track actionable goals and hang out with people with the same mindset.
+The is the best achievement goal anyone could want. We provide resources and commmunity. Join to track actionable goals and hang out with people with the same mindset.
 
 ## Why start a ministry?
 
-I was told to do what David Hoffmeister did. So I'm just going to do that. [(See David Hoffmeister needs a protege.)](https://iamalexbrady.com/ab-sees/article/hoffs-protege.html)
+It's what Jesus did. So I'm just going to do that.
 
-Sign up now and get sorted into your great house:
+<p class="text-small text-center">
+	<b>Ad:</b><br/>
+	<a href="https://iamalexbrady.com/ab-sees/article/hoffs-protege.html" target="_blank">See David Hoffmeister needs a protege</a>
+</p>
 
-**Join the ministry**
+## **Join the ministry**
 
-Plus an optional 4 question sorting quiz:
+Sign up now.
+
+Get sorted into your alex brady great house via an optional 4 question sorting quiz:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfIJ_4hRPLPOK08CK2Fvp9hSDJ-UpFdmOAFnbjkGgYTFmZJjA/viewform?embedded=true" width="640" height="1618" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
