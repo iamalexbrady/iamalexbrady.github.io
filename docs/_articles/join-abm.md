@@ -47,7 +47,7 @@ The is the best achievement goal anyone could want. We provide resources and com
 
 It's what Jesus did. So I'm just going to do that.
 
-## **Join the ministry**
+<h2 id="join-now">Join the ministry</h2>
 
 Sign up now.
 
@@ -67,6 +67,14 @@ That's the understanding we're going for here.
 When you awaken you realize you *were* dreaming.
 
 You'll know it when it happens.
+
+<div class="text-center text-smaller">
+	It is your thoughts alone that cause you pain. Nothing external to your mind can hurt or injure you in any way. There is no cause beyond yourself that can reach down and bring oppression. No-one but yourself affects you. There is nothing in the world which has the power to make you ill or sad, or weak or frail. But it is you who have the power to dominate all things you see by merely recognizing what you are. As you perceive the harmlessness in them, they will accept your holy will as theirs. And what was seen as fearful now becomes a source of innocence and holiness.
+
+	My holy brothers, think of this awhile; the world you see does nothing. It has no effects at all. It merely represents your thoughts. And it will change entirely as you elect to change your mind, and choose the joy of God as what you really want. Your Self is radiant in this holy joy, unchanged, unchanging and unchangeable forever.
+</div>
+
+It's true. Find out. [Join now.](#join-now).
 
 - alex brady
 
