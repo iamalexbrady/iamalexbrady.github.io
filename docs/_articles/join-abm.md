@@ -45,7 +45,7 @@ The is the best achievement goal anyone could want. We provide resources and com
 
 ## Why start a ministry?
 
-It's what Jesus did. So I'm just going to do that.
+Jesus had a ministry. I choose to follow his demonstration.
 
 <h2 id="join-now">Join the ministry</h2>
 
