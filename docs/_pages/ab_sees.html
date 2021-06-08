@@ -26,6 +26,7 @@ external_selector: a-b-sees
 	{% for article in articles %}
 		<div class="mb-2">
 			{{ forloop.index }}. <a href="{{ article.url }}">{{ article.title }}<a/>
+				{% if article.paper_type %}<i class="text-small">({{ article.paper_type}})</i>{% endif %}
 		</div>
 	{% endfor %}
 </div>
