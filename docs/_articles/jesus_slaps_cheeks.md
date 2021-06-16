@@ -53,15 +53,13 @@ No one can judge on partial evidence. That is not judgment. It is merely an opin
 
 Sickness is attempted proving of inefficacy
 
-T 8 I 3. All forms of sickness, even unto death, are physical expressions of the FEAR OF AWAKENING. They are attempts to reinforce UNCONSCIOUSNESS out of fear of CONSCIOUSNESS. This is a pathetic way of TRYING NOT TO KNOW by rendering the faculties for knowing ineffectual.
+**T 8 I 3.** All forms of sickness, even unto death, are physical expressions of the FEAR OF AWAKENING. They are attempts to reinforce UNCONSCIOUSNESS out of fear of CONSCIOUSNESS. This is a pathetic way of TRYING NOT TO KNOW by rendering the faculties for knowing ineffectual.
 
 ---
 
 Fear of will of God is arbitrary fear of the unknown
 
-**T 8 J 2.
-**
-If the purpose of this course is to learn what you are, and if you have ALREADY 
+**T 8 J 2.** If the purpose of this course is to learn what you are, and if you have ALREADY 
 DECIDED that what you are is FEARFUL, then it MUST follow that you will NOT LEARN 
 THIS COURSE. But you might remember that the reason FOR the course is that you do 
 NOT know who you are. If you do not know your reality, how would you know whether 
