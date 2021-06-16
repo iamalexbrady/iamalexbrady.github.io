@@ -36,6 +36,11 @@ alex brady is a whole \*\*\*\*\*\* \*\*\*\*\*\*\*\*\* lot. This is part one in a
 - alexbrady is an alexbrady learning track
 - alexbrady is built for all alex brady
 
+## alexbrady is built for A Course in Miracles
+- alexbrady has one goal: waken
+- alexbrady provides A Course in Miracles focused learning tracks
+- alexbrady provides A Course in Miracles focused devotion track
+
 ## alexbrady is available around the internet
 - voiced by user @iamalexbrady around the internet
 
@@ -75,8 +80,10 @@ alex brady is a whole \*\*\*\*\*\* \*\*\*\*\*\*\*\*\* lot. This is part one in a
 </a>        </div>
       </div>
 
+
+
 ## alexbrady is entirety and all.
 
-
+<b>alexbrady organization:</b><a href="https://alexbrady.org">alexbrady.org</a>
 
 \- alex brady
