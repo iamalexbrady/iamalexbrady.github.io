@@ -1,7 +1,7 @@
 ---
 layout: article
 slug: jesus-slaps-cheeks
-order: 7
+order: 29
 external_selector: jesus-slaps-cheeks
 title: Jesus Slaps Cheeks
 paper_type: notes
