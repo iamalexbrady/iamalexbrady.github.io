@@ -35,4 +35,4 @@ This is the sense of the word that points away from God's Thoughts.
 
 Had to make up a word for that one to work, but I am surely profound in this sense.
 
-/- alex brady
+\- alex brady
