@@ -37,4 +37,4 @@ Pertinent lessons: 35, 41, 73-76, 95, 107 maybe 106, 191, (incomplete list)
 
 ³ - the understanding presented in this very writing
 
-* - real now. as in now.
+\* - real now. as in **now.**
