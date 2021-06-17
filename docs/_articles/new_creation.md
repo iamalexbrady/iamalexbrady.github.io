@@ -7,7 +7,7 @@ title: New Creation
 paper_type: article
 ---
 
-the science of heven on earth
+the science of heaven on earth
 and how you can join the process now
 
 you understand a different type of doing that you do
@@ -16,14 +16,14 @@ you're already doing it, you need to become aware of it
 New Creation: we conventionally define creation as starting, working on, and ending a project with some amount of credibility
 A new way to view creations, a fully new understanding
 Creation is the production of experience within the present moment
-I
-- a Life
-Life
-- the creative process
+
+**I** - a Life
+
+**Life** - the creative process
 
 and
 
-Creation
+**Creation**
 - the act of producing experience
 - the experience
 
