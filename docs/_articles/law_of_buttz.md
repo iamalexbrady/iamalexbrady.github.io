@@ -9,15 +9,13 @@ paper_type: article
 
 the law of buttz¹
 
-Listen, this is only about buttz
-
-("Oh my gawd" -christ showed up)
+Listen, this is only about buttz.
 
 Nothing exists but buttz.
 
 To the extent you think there is more than BUT, you are undeniably incorrect.
 
-- But....
+- > But....
 
 Yes exactly that.
 
@@ -27,7 +25,7 @@ But butt buttz...
 
 If you want to make this about butt...(🍑). (͡o‿O͡)....whatever
 
-This is about BUT
+This is about BUT.
 
 As in there is only one thing.
 
@@ -43,8 +41,10 @@ Buttz are FUNNY. But that and only that.
               Juicier booty ( Y )
               Juiciest (  Y  )
           end ad
-```
+
                *what a juicy ad*
+```
+
 
 I call this the rules of BUTTZ
 
