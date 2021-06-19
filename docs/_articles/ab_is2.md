@@ -23,7 +23,7 @@ paper_type: article
 
 ## alexbrady on earth is an organization
 - if you are seeing a world of alex[space]bradys, you are a member with them in alexbrady
-- the concept of alexbrady organization *is reality* simply given the definition above
+- the concept of an alexbrady organization simply *is* an aspect of reality given the recapped definitions
 - this reality has been formalized into **alexbrady organization**
 
 ## alexbrady is a legal entity
