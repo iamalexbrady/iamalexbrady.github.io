@@ -7,14 +7,15 @@ title: alexbrady is (2/infinite)
 paper_type: article
 ---
 
+```
+<ad>
+  Hello, Jesus.
+  <hat />
+</ad>
 
-Hello, Jesus. <-- design series and maybe written series
+```
 
 (part 2 of an infinite series)
-
-alex brady is a whole \*\*\*\*\*\* \*\*\*\*\*\*\*\*\* lot. This is part one in an infinite series on the defintions of alex brady.
-
-**Note:** We start with the definition of alexbrady, which, as you will see, encapsulates all of alex brady. **Both** will be expounded on at a later time.
 
 ## Recap
 - alexbrady is all entirety. The concept of something that by definition encompasses all things.
