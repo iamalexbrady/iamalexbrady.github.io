@@ -37,6 +37,6 @@ P.S. - The exact thoughts in your head are what you *want* to be there. This is 
 
 ---
 
-¹ - Conventional interpretation of these words in context. ACIM's "enhanced defintions" are *additive*, and up to the reader's discernment to comprehend. Using ACIM's "enhanced definitions" more readily yields the interpretation of the passage that reminds the reader of a major goal of the course: the refution of the belief in the primacy of the historical world and the acceptance of a world beyond.
+¹ - Conventional interpretation of these words in context *usually* yield peace pointing interpretaions. Using ACIM's "enhanced definitions" more readily yields the interpretation of the passage that reminds the reader of a major goal of the course: the refution of the belief in the legitimacy of the historical world and the acceptance of a world beyond. ACIM's "enhanced defintions" are *additive*, and up to the reader's discernment to comprehend.
 
-Do acknowledge that the interpretation that yields the understanding that the world is illusion and the mind must waken from the illusion is the interpretation one should settle on.
+Do acknowledge that the interpretation that best yields the understanding that the world is illusion and the mind must waken from the illusion is the interpretation one should settle on.
