@@ -1,9 +1,9 @@
 ---
 layout: article
-slug: ab-is2
+slug: unconventional-definitions
 order: 39
-external_selector: ab-is2
-title: alexbrady is (2/infinite)
+external_selector: unconventional-definitions
+title: ACIM Unconventional Definitions
 paper_type: article
 ---
 
