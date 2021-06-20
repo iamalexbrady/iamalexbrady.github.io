@@ -67,4 +67,19 @@ Put theory and concepts into practice. Use Miraculous Forgiveness to encourage t
 
 More details and tools can be found at the alexbrady organization website: [alexbrady.org](https://alexbrady.org).
 
+<div class="course-quote">
+	<p class="text">Let us raise our hearts from dust to life, as we remember this is promised us, and that this course was sent to open up the path of light to us, and teach us, step by step, how to return to the eternal Self we thought we lost.</p>
+	<p class="reference">ACIM</p>
+</div>
+<style>
+.course-quote {
+	width: 80%;
+	margin: auto;
+}
+.reference {
+	font-style: italic;
+	text-align: center;
+}
+</style>
+
 \- alex brady

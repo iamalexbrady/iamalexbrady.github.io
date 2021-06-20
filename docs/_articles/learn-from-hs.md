@@ -50,3 +50,7 @@ Do it expecting to receive **a whole new to you understanding** that the lesson 
 ² - This means ACIM's forgiveness, not historical "false forgiveness."
 
 See the ACIM Question Answered: [What is Forgiveness?](https://iamalexbrady.com/acim/question/06-what-is-forgiveness.html)
+
+---
+
+It is not the movements within perception where communication happens. It is in the *interpretation* of perceptual events that communication can be perceptually perceived. - a.b
