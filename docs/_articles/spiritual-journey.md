@@ -9,23 +9,23 @@ paper_type: article
 
 the spiritual journey: an interactive story line
 
-**ACT 1:** whatever the fuck just happened.
+**ACT 1**: whatever the fuck just happened.
 
      : go ahead and write down some pertinent aspects of your history
      
      : and keep in mind the things that are important to you, but we didn't ask about
 
-**ACT 2:** You remember the *possibility* that this new/old world is a possible attainment.
+**ACT 2**: You remember the *possibility* that this new/old world is a possible attainment.
 
      : You gain understandings via teachings of this world
      
      : You gain understanding via experiencing this teaching in action
      
-     : Ream ACIM Text, maybe go through workbook once.
+     : Read ACIM Text, maybe go through workbook once.
      
      : Our Guidelines specfically state needing to go through the ACIM Workbook parts 1 and 2 at least once *after* completion of the text
 
-**ACT 3:** Resolution: You return to the place of power and peace.
+**ACT 3**: Resolution: You return to the place of power and peace.
 
      : If you are not at peace with your moments it is beacuse assuredly, and by definition you have not attained this step of the process
      
