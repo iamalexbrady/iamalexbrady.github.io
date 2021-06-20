@@ -29,7 +29,7 @@ and the big one
 
 ## Forgiveness
 
-*This list is under active development.*
+*\*This list is under active development.\**
 
 \- alex brady
 
