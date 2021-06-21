@@ -3,7 +3,7 @@ layout: article
 slug: spiritual-journey
 order: 39
 external_selector: spiritual-journey
-title: Spiritual Journey: an Interactive Storyline
+title: "Spiritual Journey: an Interactive Storyline"
 paper_type: article
 ---
 
