@@ -41,4 +41,5 @@ the spiritual journey: an interactive story line
 
 <hr>
 
+
 <sup>1</sup> - then time goes away. Our level of perfection is beyond space and time. If that doesn't make sense now, it'll make more sense when you get there.
