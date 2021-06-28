@@ -9,7 +9,7 @@ paper_type: article
 
 Learn this course from the Holy Spirit/Higher Self and you are qualified to teach it.
 
-If you learn this course from an external teacher -- and believe the pinnacle of understanding of this course is held by an embodied identity, e.g. Kenneth Wapnick -- you will only gain a superficial level of understanding of this course.
+If you learn this course from an external teacher -- and believe the pinnacle of understanding of this course is held by an embodied identity, e.g. Wapnick, et al. -- you will only gain a superficial level of understanding of this course.
 
 Why? An expressed purpose of this course is to put you in awareness of God's Teacher.<sup>1</sup>
 
