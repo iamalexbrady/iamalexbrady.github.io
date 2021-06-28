@@ -15,20 +15,21 @@ Why? An expressed purpose of this course is to put you in awareness of God's Tea
 
 <!-- Once you find him it becomes abundantly clear that nothing in this world of form is worthy of your time. - ab -->
 
-The depth of understanding of this course given by God's Teacher has no degree of separation from what the author these words understand the words to mean.
+The depth of understanding of this course given by God's Teacher has no degree of separation from what the author of these words understand the words to mean.
 
 When a teaching is expressed from a learner of the HS -- i.e. an embodied identity -- the denotative expression of the words are distorted
 to the level of comprehension of the learner.
 
-- **note:** exactly what they say is perfect. The Atonement Plan is in effect and made with grace as a primary constituent.
+- **note:** Exactly what they say is perfect. The Atonement Plan is in effect and made with grace as a primary constituent.
 
-Moreover the lesson of the Teacher is perfectly crafted to each individual subjective personality.
-That is to say, the explanation you personally will be given subjectively will use
+Moreover the lesson of the Teacher is perfectly crafted to each individual's subjective personality.
+That is to say, the explanation you'll personally be given subjectively will use
 your words, your life history, your preferences -- 100% customized to your exact perception of the world.
 
 This is why it's fine that learners of HS explain the course a different way. It was explained differently to them.
 
 The external teacher's understanding is a perfect imperfection.
+
 The level of understanding that will bring you to perfect peace is found within.
 
 \- alex brady
@@ -40,7 +41,7 @@ but in attitude.
 
 The question determining any teacher is ...Do they teach God?       By demonstration.
 
-It is by demonstrating that is it show that they are learning it.
+It is by demonstrating that shows that they are learning it.
 To teach God, one must have learned God. If they can demonstrate it, they must have learned it from somewhere.
 
 ---
