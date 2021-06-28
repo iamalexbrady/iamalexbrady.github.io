@@ -1,7 +1,7 @@
 ---
 layout: article
 slug: the-teacher
-order: 40
+order: 41
 external_selector: the-teacher
 title: The Teacher
 paper_type: article
