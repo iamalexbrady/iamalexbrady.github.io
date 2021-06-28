@@ -15,7 +15,7 @@ This is exactly what egos don't want. And exactly what *you **do.*** But an ego 
 
 Here's the best part: You don't even have to awaken to reap major benefits from Mind ID belief (or its lighter fare: ACIM.)¹
 
-ACIM is a course in mental healing. The final state of healing is *wholeness,* which is the increment of healing as you travel toward that state is an increment of *mental healing*. This generally leads to increased well-being.
+ACIM is a course in mental healing. The final state of healing is *wholeness.* The incremental measure as you travel toward that state is an increment of *mental healing*. This generally leads to increased well-being.
 
 Incrementally improved well-being up to and including the state of perfected perception. That's the whole point of the teaching. It should be obvious that *any* gains made along this track provide classically considered **positive** effects for the mind and perceptions of the learner.
 
@@ -26,7 +26,7 @@ I do not know the thing I am,
 
 and therefore do not know what I am doing,
 
-where I am,or how to look upon the world or on myself.
+where I am, or how to look upon the world or on myself.
 
 Yet in this learning is salvation born.
 
