@@ -11,13 +11,9 @@ Learn this course from the Holy Spirit/Higher Self and you are qualified to teac
 
 If you learn this course from an external teacher -- and believe the pinnacle of understanding of this course is held by an embodied identity, e.g. Kenneth Wapnick -- you will only gain a superficial level of understanding of this course.
 
-Why? An expressed purpose of this course is to put you in awareness of God's Teacher.
+Why? An expressed purpose of this course is to put you in awareness of God's Teacher.<sup>1</sup>
 
 <!-- Once you find him it becomes abundantly clear that nothing in this world of form is worthy of your time. - ab -->
-
-<div class="course-quote" style="width:90&;margin:auto;font-style:italics;">
-I place you in His hands, to be His faithful followers, with Him as Guide through every difficulty and all pain that you may think is real. Nor will He give you pleasures that will pass away, for He gives only the eternal and the good. Let Him prepare you further. He has earned your trust by speaking daily to you of your Father and your brother and your Self. He will continue; now you walk with Him as certain as is He of where you go; as sure as He of how you should proceed, as confident as He is of the goal, and of your safe arrival in the end.
-</div>
 
 The depth of understanding of this course given by God's Teacher has no degree of separation from what the author these words understand the words to mean.
 
@@ -46,3 +42,7 @@ The question determining any teacher is ...Do they teach God?       By demonstra
 
 It is by demonstrating that is it show that they are learning it.
 To teach God, one must have learned God. If they can demonstrate it, they must have learned it from somewhere.
+
+---
+
+<sup>1</sup> - *I place you in His hands, to be His faithful followers, with Him as Guide through every difficulty and all pain that you may think is real. Nor will He give you pleasures that will pass away, for He gives only the eternal and the good. Let Him prepare you further. He has earned your trust by speaking daily to you of your Father and your brother and your Self. He will continue; now you walk with Him as certain as is He of where you go; as sure as He of how you should proceed, as confident as He is of the goal, and of your safe arrival in the end.* ACIM Workbook Epilogue
