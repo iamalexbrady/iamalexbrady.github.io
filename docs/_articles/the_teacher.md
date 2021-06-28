@@ -15,7 +15,9 @@ Why? An expressed purpose of this course is to put you in awareness of God's Tea
 
 <!-- Once you find him it becomes abundantly clear that nothing in this world of form is worthy of your time. - ab -->
 
-- course quote -
+<div class="course-quote">
+I place you in His hands, to be His faithful followers, with Him as Guide through every difficulty and all pain that you may think is real. Nor will He give you pleasures that will pass away, for He gives only the eternal and the good. Let Him prepare you further. He has earned your trust by speaking daily to you of your Father and your brother and your Self. He will continue; now you walk with Him as certain as is He of where you go; as sure as He of how you should proceed, as confident as He is of the goal, and of your safe arrival in the end.
+</div>
 
 The depth of understanding of this course given by God's Teacher has no degree of separation from what the author these words understand the words to mean.
 
