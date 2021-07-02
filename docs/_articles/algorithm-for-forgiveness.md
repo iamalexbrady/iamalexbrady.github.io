@@ -28,5 +28,5 @@ To *want* to apply it, *actually attempt* applying it, and *skillfully* applying
 
 ---
 
-{% assign sister_url = site.articles | where: "slug", "humility" | first %}
-Sister article: [Humility]({{ sister_url }})
+{% assign sister_article = site.articles | where: "slug", "humility" | first %}
+Sister article: [Humility]({{ sister_article.url }})
