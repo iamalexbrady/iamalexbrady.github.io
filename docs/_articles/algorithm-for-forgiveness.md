@@ -12,11 +12,11 @@ paper_type: article
 
 Why this works:
 
-A. Your mind is literally this powerful. I can stop with this statement, but here are more:
+**A.** Your mind is literally this powerful. I can stop with this statement, but here are more:
 
-B. Given the existance of a higher self, there *must be* another perspective from which to view the situation.
+**B.** Given the existance of a higher self, there *must be* another perspective from which to view the situation.
 
-C: The decision to see from the Higher Perspective *is* joining of wills with the higher self to see things "its way." Now your full self, lower and higher, are in alignment about what is occuring.
+**C:** The decision to see from the Higher Perspective *is* joining of wills with the higher self to see things "its way." Now your full self, lower and higher, are in alignment about what is occuring.
 
 Historically, this has not been how humanity operated. Why? This is what we've forgotten in the "fall of man"/"separation from source"/"descent".
 
