@@ -30,3 +30,5 @@ To *want* to apply it, *actually attempt* applying it, and *skillfully* applying
 
 {% assign sister_article = site.articles | where: "slug", "humility" | first %}
 Sister article: [Humility]({{ sister_article.url }})
+
+*I do not know the thing I am and therefore do not know what I am doing, where I am, or how to look upon the world or on myself. In this learning is salvation born. And what you are will tell you of Itself.* - ACIM
