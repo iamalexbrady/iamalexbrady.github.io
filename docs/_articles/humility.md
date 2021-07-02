@@ -7,7 +7,7 @@ title: Humility
 paper_type: article
 ---
 
-{% assign sister_article | site.articles | where: 'slug', 'algorithm-for-forgiveness' | first %}
+{% assign sister_article = site.articles | where: 'slug', 'algorithm-for-forgiveness' | first %}
 
 <span style="font-size:.9em;">Sister article: [Algorithm for Forgiveness]({{ sister_article.url }})</span>
 
