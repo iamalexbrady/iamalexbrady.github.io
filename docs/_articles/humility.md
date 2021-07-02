@@ -11,7 +11,7 @@ paper_type: article
 
 <span style="font-size:.9em;">Sister article: [Algorithm for Forgiveness]({{ sister_article.url }})</span>
 
-You have no idea what's going on in front of you right now. That's not speaking poorly of you; it's very literally how we built the system.
+You have no idea what's going on in front of you right now. That's not speaking poorly of you; it's very literally how we built the system.<sup>0</sup>
 
 We put something *unlike* us in front of us for examination purposes.
 
@@ -24,6 +24,8 @@ That's how far far out ACIM's teachings can take you. It talks a lot about perce
 - alex brady
 
 ---
+
+<sup>0</sup> - We have *names* for what's going on in front of us, but simply because we've named these things, does not mean we know what they are. Moreover, I am asking that you observice the phenomenon of life itself -- the continuous stream of experience that comprises **being.** That we a) have named it, and b) can *do* it are obvious, but this mechanics/power/force/energy foundational to a state of life is largely taken for granted as unnecessary to consider. Here, we consider it.
 
 <sup>1</sup> - **PETs:** Persons, events, things, concepts
 
