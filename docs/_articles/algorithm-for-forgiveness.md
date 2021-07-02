@@ -1,3 +1,12 @@
+---
+layout: article
+slug: algorithm-for-forgiveness
+order: 43
+external_selector: algorithm-for-forgiveness
+title: Algorithm for Forgiveness
+paper_type: article
+---
+
 1. Decide that you want peace of mind.
 2. Ask the Higher Self to show peace in your perception instead.
 
@@ -16,3 +25,8 @@ Now we know it exists as an option, but it takes willingness, effort, and skill 
 To *want* to apply it, *actually attempt* applying it, and *skillfully* applying it are different phases of use for this algorithm.
 
 \- alex brady
+
+---
+
+{% assign sister_url = site.articles | where: "slug", "humility" | first %}
+Sister article: [Humility]({{ sister_url }})
