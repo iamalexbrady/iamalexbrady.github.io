@@ -7,7 +7,7 @@ title: Humility
 paper_type: article
 ---
 
-<span style="font-size:.9em;">Sister article: [Algorithm for Forgiveness](/ab-sees/article/forgiveness-algorithm.html)</span>
+<span style="font-size:.9em;">Sister article: [Algorithm for Forgiveness](/ab-sees/article/algorithm-for-forgiveness.html)</span>
 
 You have no idea what's going on in front of you right now. That's not speaking poorly of you; it's very literally how we built the system.
 
