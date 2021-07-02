@@ -27,6 +27,6 @@ That's how far far out ACIM's teachings can take you. It talks a lot about perce
 
 <sup>1</sup> - **PETs:** Persons, events, things, concepts
 
-<sup>2<sup> - From this frame of mind, *all perceptual phenomena* are seen as *one thing*. Can you see how the collapsing of all meanings within perception will lead do an **entirely different** experience than what can be found *within* perception?
+<sup>2</sup> - From this frame of mind, *all perceptual phenomena* are seen as *one thing*. Can you see how the collapsing of all meanings within perception will lead do an **entirely different** experience than what can be found *within* perception?
 
 *I do not know the thing I am and therefore do not know what I am doing, where I am, or how to look upon the world or on myself. In this learning is salvation born. And what you are will tell you of Itself.* - ACIM
