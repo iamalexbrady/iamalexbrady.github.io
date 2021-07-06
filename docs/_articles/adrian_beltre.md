@@ -1,7 +1,7 @@
 ---
 layout: article
 slug: adrian-beltre
-order: 27
+order: 29
 external_selector: adrian-beltre
 title: Adrián Beltré
 paper_type: article
