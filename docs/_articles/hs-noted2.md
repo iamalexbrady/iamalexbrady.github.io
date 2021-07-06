@@ -1,7 +1,7 @@
 ---
 layout: article
 slug: hs-noted2
-order: 28
+order: 27
 external_selector: hs-noted2
 title: Notes from Higher Self 2
 paper_type: note
