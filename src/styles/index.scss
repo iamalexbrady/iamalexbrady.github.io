@@ -18,6 +18,13 @@
 	}
 }
 
+#promoted {
+	.book-cover {
+		width: 100%;
+		max-width: 150px;
+	}
+}
+
 #call-to-action {
 	.cta {
 		background-color: $ab-black;

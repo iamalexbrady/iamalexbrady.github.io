@@ -6,7 +6,7 @@
 
 .acim-qna-layout .pre-content{margin-bottom:2em}.acim-qna-layout .post-content{margin-bottom:3em}.acim-qna-layout .prev-next{display:flex;justify-content:space-between}.acim-qna-layout .prev-next a{font-size:1.2em}.acim-qna-layout .post-content .prev-next{margin-bottom:1em}.acim-qna-layout .prev-next-label{font-style:italic;font-size:.8em;margin-bottom:.5em}.acim-qna-layout .next{text-align:right}.acim-qna-layout .acim-qna-select{width:100%;height:3em}.acim-qna-layout .select-box-wrapper .prev-next-label{margin-top:.4em;float:right}
 
-.jumbotron{margin-bottom:2em}.jumbotron>*{flex-basis:50%;flex-grow:0;flex-shrink:0}.jumbotron .sup{display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:x-large}#call-to-action .cta{background-color:#222;color:#e9e9e9;padding:20px;margin-bottom:20px}#call-to-action .cta>*:last-child{margin-bottom:0}
+.jumbotron{margin-bottom:2em}.jumbotron>*{flex-basis:50%;flex-grow:0;flex-shrink:0}.jumbotron .sup{display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:x-large}#promoted .book-cover{width:100%;max-width:150px}#call-to-action .cta{background-color:#222;color:#e9e9e9;padding:20px;margin-bottom:20px}#call-to-action .cta>*:last-child{margin-bottom:0}
 
 .link-btn{display:flex;justify-content:space-between;padding:1em;background-color:#e9e9e9;border:1px solid #ababab;text-decoration:none}.link-btn:hover{text-decoration:underline;background-color:#dcdcdc}.link-btn-list .link-btn{border-bottom:none}.link-btn-list .link-btn:first-of-type{border-radius:.5em .5em 0 0}.link-btn-list .link-btn:last-of-type{border-radius:0 0 .5em .5em;border-bottom:1px solid #ababab}
 
