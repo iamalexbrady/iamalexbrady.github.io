@@ -64,3 +64,9 @@ alex brady is a whole \*\*\*\*\*\* \*\*\*\*\*\*\*\*\* lot. This is part one in a
 &times; has a butt<br>✓ alexbrady<br>✓ identification with alexbrady
 
 - alex brady
+
+---
+
+### PS
+
+**Separation (n.)** = the idea that alex brady can not be alexbrady. The idea that that is a possibility.
