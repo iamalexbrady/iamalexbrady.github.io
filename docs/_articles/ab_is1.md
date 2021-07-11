@@ -69,4 +69,4 @@ alex brady is a whole \*\*\*\*\*\* \*\*\*\*\*\*\*\*\* lot. This is part one in a
 
 ### PS
 
-**Separation (n.)** = the idea that alex brady can not be alexbrady. The idea that that is a possibility.
+(7/11/21) **Separation (n.)** = the idea that alex brady can not be alexbrady. The idea that that is a possibility.
