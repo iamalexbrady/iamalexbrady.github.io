@@ -50,6 +50,9 @@ collections:
   ab_assets:
     output: true
     permalink: /ab-sees/asset/:title:output_ext
+  white_papers:
+    output: true
+    permalink: /ab-sees/wp/:title:output_ext
   urtext:
     output: true
     sort_by: order

@@ -25,7 +25,7 @@ external_selector: a-b-sees
 	{% assign articles = site.articles | sort: 'order' %}
 	{% for article in articles %}
 		<div class="mb-2">
-			{{ forloop.index }}. <a href="{{ article.url }}">{{ article.title }}<a/>
+			{{ forloop.index }}. <a href="{{ article.url }}">{{ article.title }}</a>
 				{% if article.paper_type %}<i class="text-small">({{ article.paper_type}})</i>{% endif %}
 		</div>
 	{% endfor %}
@@ -36,20 +36,39 @@ external_selector: a-b-sees
 	<video class="w-100 mb-4" controls>
 		<source src="{{ site.url }}/assets/files/mindid_1_introduction.mp4" type="video/ogg">
 	</video>
-        <p>These are non-text resources. At this moment, my <a href="https://youtube.iamalexbrady.com">YouTube channel</a> has more content.</p>
+    <p>These are non-text resources. At this moment, my <a href="https://youtube.iamalexbrady.com">YouTube channel</a> has more content.</p>
+	
+	<div class="mb-2">00. <a href="https://www.youtube.com/channel/UCrLx5DQV2vqAK-eSWYq9s7w" target="_blank">alex brady on YouTube</a> - Diverse mix of high qulity enlightenment entertainment by yours truly.</div>
+
 	<div class="mb-2">0. <a href="https://www.youtube.com/playlist?list=PLQUn1ahLSHyXTtNP3cdbodlRHrK_geVZI" target="_blank">the alex brady playlist</a> - Spirituality, philosophy, science, comedy a.b likes..</div>
 
 	{% for asset in site.ab_assets %}
-		<div class="mb-2">{{ forloop.index }}. <a href="{{ asset.url }}">{{ asset.title }}<a/>
+		<div class="mb-2">{{ forloop.index }}. <a href="{{ asset.url }}">{{ asset.title }}</a>
 			{% if asset.type %}<i class="text-small">({{ asset.type}})</i>{% endif %}
 		</div>
 	{% endfor %}
 </div>
 
 <div class="region">
+	<h2>White Papers</h2>
+	<p>Unique channeled materials from Higher Self. Topics covered include: personal salvation, miracles, sex, and more.</p>
+	<div class="row">
+		<div class="col col-md-6">
+			{% for paper in site.white_papers %}
+				<div class="mb-2">
+					<a href="{{ paper.url }}">{{ paper.title }}</a>
+				</div>
+			{% endfor %}
+			<a href="https://github.com/iamalexbrady/iamalexbrady.github.io/tree/master/docs/assets/img/white_papers">...the rest</a>
+		</div>
+
+		<div class="col col-md-6">
+			<img src="/assets/img/you_remember_this.jpg" alt="you remember this" width="100%">
+		</div>
+	</div>
+</div>
+
+<div class="region">
 	<h2>Newsletter</h2>
 	<p>Check out and sign up for alex brady's newsletter, <a href="https://www.getrevue.co/profile/iamalexbrady" target="_blank">alex brady's new letters.</a> Content varies from the onsite blogs, so it's worth a look!</p>
-	<div class="text-center">
-		<img src="/assets/img/you_remember_this.jpg" alt="you remember this" width="75%">
-	</div>
 </div>
