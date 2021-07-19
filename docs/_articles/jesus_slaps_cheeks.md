@@ -94,6 +94,13 @@ RETALIATION.
 
 ---
 
+If this course doesn't make sense to you, it's because you're actively interpreting against it.
+If you are not attaining perfect peace **now** you are actively interpreting against it -- course principles and active perception.
+
+**T-10.VII.60** This course is perfectly clear. You do not see it clearly because you are interpreting against it and therefore do not believe it. And if belief determines perception, you do not perceive what it means and therefore do not accept it.
+
+---
+
 New items added when found.
 
 Have an ACIM quote to add? Email iamalexbrady@gmail.com
