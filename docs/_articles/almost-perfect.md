@@ -13,8 +13,8 @@ this state is waaaaaaayyyyyyy better than where we've been and worth desiring to
 
 a state of perfection is one where one understands invulnerability of being the only thing that is with inherent powers of creation.
 
-almost perfect is a state where perfection makes sense.</br>
-almost perfect is a state that reflects the invulnerability and creativity of perfection.</br>
+almost perfect is a state where perfection makes sense.<br>
+almost perfect is a state that reflects the invulnerability and creativity of perfection.<br>
 almost perfect is a state that mimics the laws of perfection.
 
 \- alex brady
