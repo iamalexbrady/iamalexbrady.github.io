@@ -1,0 +1,111 @@
+---
+layout: article
+slug: how-andy-talks
+order: 51
+external_selector:how-andy-talks
+title: How Andy Talks
+paper_type: article
+---
+
+**Andy:** I also wanted to mention that Zach said the three month mark is usually when people
+are more encouraged to step in closer to the community in terms of functions and for you I'd
+suggest if you do want to stay to take into prayer if there are any volunteer functions you may
+want to be a part of while you're here. For example remote volunteering is mostly computer function
+and you can pick how many hours per week you want to spend on it, even if you're extremely busy
+you can still pick a specific number of hours you want to spend so it's doable for anyone really.
+Let me know how that feels to you but Zach did mention that to me for you if you wanted to stay
+another month that it felt helpful if you wanted to pick up more function and this would be a way
+of coming closer to David especially if that's what you want to do and I know based off one of your
+emails to him in the past that might be a desire you have in your mind. Let me know if you have
+any thoughts or if you want to connect on that ✨🌞
+
+**Alexa:** Thanks for the thoughts.
+
+---
+
+**Andy**: Hi Alexa, I just joined with Zach and it feels like at the moment everyone
+who has committed to staying here next month has time on their hands and are
+able to give specific time commitments and I know you are working on a lot projects
+at the moment and aren't able to give a specific time commitment so to allow the ones
+that do and since we are receiving applications from new people, it feels like it could
+be guided for you not to stay another month unless you're able commit to a specific time
+commitment and have time on your hands to be here in fuller service. So we could move
+forward with the idea that you will not stay unless we hear back a specific time commitment
+and a strong desire to be here in service with other mighty companions and have the time for
+that since everyone else will be in the same position so we're all on the same page
+
+**Alexa**: Okay.
+
+---
+
+**Andy:** Hi Alexa, do you feel inspired around helping with the installation of the wheel
+on the garden gate if that's bought beforehand? David wrote his name down on the fridge for
+that but we're open to having you do it since he has some other functions and it feels inspiring
+if you wanted to help support with that ✨
+
+**Alexa:** No.
+
+**Andy:** Ok thanks for letting me know, I only brought it up because you had mentioned it
+to me earlier but then I didn't know what your thoughts were after that or why you had
+mentioned in the first place so I wanted to get clear about that ✨
+
+**Alexa:** Yes, I understand.
+
+---
+
+**Andy:** The silence verbally is because it's much more tempting for the ego to speak through our bodies
+generally speaking than it is to send a message because that's usually not as impulsive so it's part of the mind training.
+
+**Alexa:** "It is more tempting for the ego to speak through outer bodies general speaking than text"..... You just made that up.
+
+**Alexa:** Straight lie. Do you even believe that?
+
+**Andy:** That's been my experience so yes I have no reason to lie about it ✨😂
+
+**Alexa:** Alright. Thats a personal perception, and not universally true. If its true for you I suppose that's good for you to watch out for.
+
+**Alexa:** The fact that its true for you and not everyone places the whole belief in ego realm, so it's good to not be invested in it.
+
+**Alexa:** Both speaking verbally and in text are domains of the ego, solvable by a unified purpose, but not differentiatble otherwise.
+
+**Andy:** Yes that seems to be the phase I'm in and it seems like it applies to most of our group right now but it might not
+apply so much for you, it depends on ego dynamics. Yes that's right that it's solved by a unified purpose, that feels like the theme
+right now in my mind, very similar to that video I just put out to the group ✨🤩
+
+**Alexa:** Yeah I got the phrase "unified purpose" directly from that vid 😁 perfect
+
+**Andy:** Yes, by the way I wanted to check in with you regarding if you feel the guidance to stay another month
+after this one? Someone has applied for our bunk room but at the moment if everyone stayed there wouldn't be any
+space so I wanted to check in if you had any thoughts about that at this moment ✨🤩
+
+**Alexa:** I wouldn't plan for me here next month. If the space fills, I'll take it as a sure sign to head out. 😁
+
+**Andy:** Sounds good, thanks Alexa ✨🌞
+
+---
+
+*10 days later*
+
+**Andy**: Hi Alexa, I realized you already confirmed that you wouldn't be here next month and since I messaged our room in a separate
+WhatsApp group and haven't heard from you specifically then I'll just assume your guidance hasn't changed around that so that [new_person]
+can move into our room next month ✨
+
+**Alexa:** In no way have I confirmed I wouldn't be here next month.
+
+**Alexa:** I wouldn't plan for me here next month. If the space fills, I'll take it as a sure sign to head out. 😁
+
+**Alexa:** ^ thats exactly what I said. And yes nothing's changed from that. 👍
+
+**Andy:** The space is filling so maybe you can let me know when you know for sure so we can let Christopher Todd know or make arrangements around that ✨
+
+---
+
+**Andy:** Hi Alexa, Don mentioned that he had joined with you and you volunteered to make
+his bed after he left, were you still going to do that?
+
+**Alexa:** Yes.
+
+---
+
+<p style="text-center">The Script is Written</p>
+<p style="text-center">- alex brady</p>
