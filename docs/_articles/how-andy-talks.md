@@ -2,7 +2,7 @@
 layout: article
 slug: how-andy-talks
 order: 51
-external_selector:how-andy-talks
+external_selector: how-andy-talks
 title: How Andy Talks
 paper_type: article
 ---
