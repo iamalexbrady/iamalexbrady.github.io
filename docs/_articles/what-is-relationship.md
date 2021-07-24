@@ -9,7 +9,7 @@ paper_type: article
 
 Relationship is how you *perceive* something.
 
-How you understand itwat xperience it beings into your life whan you think of it.
+How you understand it. What xperience it beings into your life whan you think of it.
 
 You have a relationship with every person, place, thing, and concept.
 
