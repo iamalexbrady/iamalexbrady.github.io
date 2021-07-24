@@ -11,7 +11,7 @@ The expressed purpose of this is to enlighten you. You’re welcome.
 
 Atonement: generically being at one with something.
 
-For the duration of this presentation, this “something” we will define as the creator of our Mind Identity, what A Course in Miracles calls God. Generically, it is Creation itself.
+For the duration of this presentation, this “something” we will define as the creator of our Mind Identity¹, what A Course in Miracles calls God. Generically, it is Creation itself.
 
 Here both God and Creation are defined as Love and Understanding of created identities. This encompasses the full and complete knowledge of all created things (everything), the appreciation of these things, and the act of manifesting and being these understandings into existence.
 
@@ -79,9 +79,15 @@ As you personally experience this process, you will notice it is a gradient of p
 
 Skips of level are possible, but not long lasting. For example, a person may experience and recognize the experience of Mind Supremacy (level 2) without realizing why such an event occurred (level 1). A revelation may occur that causes even someone at any lower level to jump to a higher level.
 
-This should be used as a mental model for positioning yourself on your spiritual path. The true goal of moving through these levels is found within your experience right now. And only there. Although intellectualization (e.g. this presentation) will hold you over until you are able to experience exactly what that means. I hope you’ve found this helpful. Questions about presented topics? Leave a comment or contact me on social.
+This should be used as a mental model for positioning yourself on your spiritual path. The true goal of moving through these levels is found within your experience right now. And only there. Although intellectualization (e.g. this presentation) will hold you over until you are able to experience exactly what that means.
 
-- alex brady
+I hope you’ve found this helpful. Questions about presented topics? Leave a comment in the chat or contact me on social.
+
+\- alex brady
+
+---
+
+¹ - [Mind Identity Theory Materials](/ab-sees)
 
 ---
 
