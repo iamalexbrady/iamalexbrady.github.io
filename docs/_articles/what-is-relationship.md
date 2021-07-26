@@ -34,7 +34,7 @@ Holy Spirit speaks truth onto perceptions by painting new meanings onto relation
 This will cause a period of perception where perceptual events contain multiple meanings:</br>
 One historically conventional meaning. One meaning given to via HS that *sounds* unconventional, but *yields* peace.
 
-The typos in the upper part of this article will be used to demonstrate this. Conventionally, they are typo that need to be corrected.
+The typos in the upper part of this article will be used to demonstrate this. Conventionally, they are typos that need to be corrected.
 
 Unconventional and generally, they are useful for this very learning exercise of "meaning density."
 
