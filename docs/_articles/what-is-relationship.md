@@ -9,11 +9,13 @@ paper_type: article
 
 Relationship is how you *perceive* something.
 
-How you understand it. What xperience it beings into your life whan you think of it.
+How you understand it -- what experience it brings into your life whan you think of it.
 
 You have a relationship with every person, place, thing, and concept.
 
-Even if you haven't heard of a concept, thing or place, you have a relationship. A relationship of "forgetfulness."
+Even if you haven't heard of a concept, thing or place, you have a relationship.
+
+To a human, this is a relationship of "unknown unknown." To a Son of God, it is a relationship of "forgetfulness."
 
 \- alex brady
 
@@ -22,7 +24,7 @@ Even if you haven't heard of a concept, thing or place, you have a relationship.
 
 **Edit 7/25/21:**
 
-This post has a few typos, but I'd like to use the occasion to explain a new concept:
+Before the edit, this post had a few typos. I'd like to use the occasion to explain a new concept:
 
 "Meaning Density"
 
@@ -40,7 +42,19 @@ Unconventional and generally, they are useful for this very learning exercise of
 
 Specifically, the typos mean the following to me right now. Feel free to examine them in context of your own life story as well.
 
-## Article again
+## original article
+
+Relationship is how you *perceive* something.
+
+How you understand it. What xperience it beings into your life whan you think of it.
+
+You have a relationship with every person, place, thing, and concept.
+
+Even if you haven't heard of a concept, thing or place, you have a relationship. A relationship of "forgetfulness."
+
+\- alex brady
+
+## typos
 
 **Typo 1: xperience** Relationship is how you *perceive* something. What **xperience** it beings into your life whan you think of it.
 
