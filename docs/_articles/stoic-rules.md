@@ -11,105 +11,113 @@ I just copied this article and added #acim to the 50 rules. 😂 🤞
 
 [50 Very Short Rules for a Good Life From the Stoics](https://forge.medium.com/50-very-short-rules-for-a-good-life-from-the-stoics-871241494571) by Ryan Holiday
 
-✔ if the stoic rule matches my understanding of ACIM 
+✅ if the stoic rule matches my understanding of ACIM<br/>
 ❌ if the stoic rule does not match my understanding of ACIM
 
-Focus on what you can control. #acim
+---
 
-You control how you respond to things. #acim
+Focus on what you can control. #acim | ✅
 
-Ask yourself, “Is this essential?” #acim
+You control how you respond to things. #acim | ✅
 
-Meditate on your mortality every day. #acim
+Ask yourself, “Is this essential?” #acim | ✅
 
-Value time more than money and possessions. #acim
+Meditate on your mortality every day. #acim | ❌
 
-You are the product of your habits. #acim
+Value time more than money and possessions. #acim | ❌
 
-Remember you have the power to have no opinion. #acim
+You are the product of your habits. #acim | 😶
 
-Own the morning. #acim
+Remember you have the power to have no opinion. #acim | ✅
 
-Put yourself up for review. Interrogate yourself. #acim
+Own the morning. #acim | ❌
 
-Don’t suffer imagined troubles. #acim
+Put yourself up for review. Interrogate yourself. #acim | ✅
 
-Try to see the good in people. #acim
+Don’t suffer imagined troubles. #acim | ✅
 
-Never be overheard complaining—even to yourself. #acim
+Try to see the good in people. #acim | ✅
 
-Two ears, one mouth for a reason. #acim
+Never be overheard complaining—even to yourself. #acim | ✅
 
-There is always something you can do. #acim
+Two ears, one mouth for a reason. #acim | 😶
 
-Don’t compare yourself to others. #acim
+There is always something you can do. #acim | 😶
 
-Live as if you’ve died and come back (every minute is bonus time). #acim
+Don’t compare yourself to others. #acim | ✅
 
-“The best revenge is not to be like that.” —Marcus Aurelius #acim
+Live as if you’ve died and come back (every minute is bonus time). #acim | ❌
 
-Be strict with yourself and tolerant with others. #acim
+“The best revenge is not to be like that.” —Marcus Aurelius #acim | 😶
 
-Put every impression, emotion, to the test before acting on it. #acim
+Be strict with yourself and tolerant with others. #acim | ✅
 
-Learn something from everyone. #acim
+Put every impression, emotion, to the test before acting on it. #acim | ✅
 
-Focus on process, not outcomes. #acim
+Learn something from everyone. #acim | ✅
 
-Define what success means to you. #acim
+Focus on process, not outcomes. #acim | ✅
 
-Find a way to love everything that happens. #acim
+Define what success means to you. #acim | ✅
 
-Seek out challenges. #acim
+Find a way to love everything that happens. #acim | ✅✅
 
-Don’t follow the mob. #acim
+Seek out challenges. #acim | ❌
 
-Grab the “smooth handle.” #acim
+Don’t follow the mob. #acim | ✅
 
-Every person is an opportunity for kindness. #acim
+Grab the “smooth handle.” #acim | what.
 
-Say no (a lot). #acim
+Every person is an opportunity for kindness. #acim | ✅
 
-Don’t be afraid to ask for help. #acim
+Say no (a lot). #acim | 😶
 
-Find one thing that makes you wiser every day. #acim
+Don’t be afraid to ask for help. #acim | ✅
 
-What’s bad for the hive is bad for the bee. #acim
+Find one thing that makes you wiser every day. #acim | ✅
 
-Don’t judge other people. #acim
+What’s bad for the hive is bad for the bee. #acim | ✅
 
-Study the lives of the greats. #acim
+Don’t judge other people. #acim | ✅
 
-Forgive, forgive, forgive. #acim
+Study the lives of the greats. #acim | ❌
 
-Make a little progress each day. #acim
+Forgive, forgive, forgive. #acim | ✅✅✅
 
-Journal. #acim
+Make a little progress each day. #acim | ✅
 
-Prepare for life’s inevitable setbacks. #acim
+Journal. #acim | 😶
 
-Look for the poetry in ordinary things. #acim
+Prepare for life’s inevitable setbacks. #acim | ✅
 
-To do wrong to one, is to do wrong to yourself. #acim
+Look for the poetry in ordinary things. #acim | ✅
 
-Always choose “alive time.” #acim
+To do wrong to one, is to do wrong to yourself. #acim | ✅
 
-Associate only with people that make you better. #acim
+Always choose “alive time.” #acim | ✅
 
-If someone offends you, realize you are complicit in taking offense. #acim
+Associate only with people that make you better. #acim | ❌
 
-Fate behaves as she pleases…do not forget this. #acim
+If someone offends you, realize you are complicit in taking offense. #acim | ✅
 
-Possessions are yours only in trust. #acim
+Fate behaves as she pleases…do not forget this. #acim | ✅
 
-Don’t make your problems worse by bemoaning them. #acim
+Possessions are yours only in trust. #acim | 😶
 
-Accept success without arrogance, handle failure with indifference. #acim
+Don’t make your problems worse by bemoaning them. #acim | ✅😶
 
-Courage. Temperance. Justice. Wisdom. (Always). #acim
+Accept success without arrogance, handle failure with indifference. #acim | ✅
 
-The obstacle is the way. #acim
+Courage. Temperance. Justice. Wisdom. (Always). #acim | ✅
 
-Ego is the enemy. #acim
+The obstacle is the way. #acim | 😶
 
-Stillness is the key. #acim
+Ego is the enemy. #acim | ✅😶✅
+
+Stillness is the key. #acim | 🎂
+
+---
+
+/- alex brady
+
+*Forgiveness offers everything I want.* **W-122**
