@@ -12,7 +12,8 @@ I just copied this article and added #acim to the 50 rules. 😂 🤞
 [50 Very Short Rules for a Good Life From the Stoics](https://forge.medium.com/50-very-short-rules-for-a-good-life-from-the-stoics-871241494571) by Ryan Holiday
 
 ✅ if the stoic rule matches my understanding of ACIM<br/>
-❌ if the stoic rule does not match my understanding of ACIM
+❌ if the stoic rule does not match my understanding of ACIM<br/>
+😶 if ACIM or I are silent on the matter
 
 ---
 
