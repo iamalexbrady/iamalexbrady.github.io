@@ -45,41 +45,21 @@ paper_type: article
 ## alexbrady is available around the internet
 - voiced by user @iamalexbrady around the internet
 
-<div class="link-row d-flex">
-        <div class="social-link">
-          <a href="https://twitter.iamalexbrady.com">
-            <span class="fa-stack network-icon navbar-link fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-twitter fa-stack-1x"></i></span> twitter.iamalexbrady.com
-</a>        </div>
+YouTube: [youtube.iamalexbrady.com](https://www.youtube.com/channel/UCrLx5DQV2vqAK-eSWYq9s7w) (videos)
 
-        <div class="social-link">
-          <a href="https://youtube.iamalexbrady.com">
-            <span class="fa-stack network-icon navbar-link fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-youtube fa-stack-1x"></i></span> youtube.iamalexbrady.com
-</a>        </div>
-      </div>
+Twitter: [twitter.iamalexbrady.com](https://twitter.com/iamalexbrady) (thoughts)
 
-      <div class="link-row d-flex">
-          <div class="social-link">
-            <a href="https://reddit.iamalexbrady.com">
-              <span class="fa-stack network-icon navbar-link fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-reddit fa-stack-1x"></i></span> reddit.iamalexbrady.com
-</a>          </div>
+Reddit: [reddit.iamalexbrady.com](https://reddit.com/r/iamalexbrady) (discussion and original content)
 
-        <div class="social-link">
-          <a href="https://ig.iamalexbrady.com">
-            <span class="fa-stack network-icon navbar-link fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-instagram fa-stack-1x"></i></span> ig.iamalexbrady.com
-</a>        </div>
-      </div>
+Medium: [medium.iamalexbrady.com](https://iamalexbrady.medium.com) (articles)
 
-      <div class="link-row d-flex">
-        <div class="social-link">
-          <a href="https://facebook.iamalexbrady.com">
-            <span class="fa-stack network-icon navbar-link fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x"></i></span> facebook.iamalexbrady.com
-</a>        </div>
+Instagram: [ig.iamalexbrady.com](https://instagram.com/iamalexbrady) (pics and images)
 
-        <div class="social-link">
-          <a href="https://linkedin.iamalexbrady.com">
-            <span class="fa-stack network-icon navbar-link fa-lg"><i class="fa fa-square-o fa-stack-2x"></i><i class="fa fa-linkedin fa-stack-1x"></i></span> linkedin.iamalexbrady.com
-</a>        </div>
-      </div>
+Facebook: [facebook.iamalexbrady.com](https://facebook.com/iamalexbrady) (social networking)
+
+LinkedIn: [linkedin.iamalexbrady.com](https://linkedin.com/in/iamalexbrady) (professional networking)
+
+Twitch.tv: [twitch.iamalexbrady.com](https://twitch.tv/iamalexbrady) (content creation live streams)
 
 
 
