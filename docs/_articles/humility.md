@@ -15,7 +15,7 @@ You have no idea what's going on in front of you right now. That's not speaking 
 
 We put something *unlike* us in front of us for examination purposes.
 
-The world of perception is **unlike** us -- what we are at the next level. It is so *unlike* what we are that it is *meaningless* to compare these sytems. It would be like comparing the electrical power grid with the software being used to view this presentations (likely an internet browser). While the systems do have subtle interactions with one another, the contextual operation of each system is *unlike* the other. As a third system unlike the other two, consider the orbital patterns of celestial bodies.
+The world of perception is **unlike** us -- what we are at the next level. It is so *unlike* what we are that it is *meaningless* to compare these sytems. It would be like comparing the electrical power grid with the software being used to view this presentations (likely an internet browser). While the systems do have subtle interactions with one another, the contextual operation of each system is *unlike* the other. As a third system unlike power grids and internet software, consider the orbital patterns of celestial bodies.
 
 As much context, knowledge, information, and expertise one may have about the perceptual world, There simply is another frame of mind from which to view the PETs<sup>1</sup> found here.<sup>2</sup>
 
@@ -25,7 +25,7 @@ That's how far far out ACIM's teachings can take you. It talks a lot about perce
 
 ---
 
-<sup>0</sup> - We have *names* for what's going on in front of us, but simply because we've named these things, does not mean we know what they are. Moreover, I am asking that you observice the phenomenon of life itself -- the continuous stream of experience that comprises **being.** That we a) have named it, and b) can *do* it are obvious, but this mechanics/power/force/energy foundational to a state of life is largely taken for granted as unnecessary to consider. Here, we consider it.
+<sup>0</sup> - We have *names* for what's going on in front of us, but simply because we've named these things, does not mean we know what they are. Moreover, I am asking that you to observe the phenomenon of life itself -- the continuous stream of experience that comprises **being.** That we a) have named it, and b) can *do* it are obvious, but this mechanics/power/force/energy foundational to a state of life is largely taken for granted as unnecessary to consider. Here, we consider it.
 
 <sup>1</sup> - **PETs:** Persons, events, things, concepts
 
