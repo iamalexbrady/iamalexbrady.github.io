@@ -101,6 +101,23 @@ If you are not attaining perfect peace **now** you are actively interpreting aga
 
 ---
 
+An Unreal World exposé
+
+T 11 J 2. The world you see is the delusional system of those made mad by guilt. 
+Look carefully at this world, and you will realize that this is so. For this 
+world is the symbol of punishment, and all the laws which seem to govern it are 
+the laws of death. Children are born into it through pain and in pain. Their 
+growth is attended by suffering, and they learn of sorrow and separation and 
+death. Their minds are trapped in their brain, and its powers decline239 if their 
+bodies are hurt. They seem to love, yet they desert, and are deserted. They 
+appear to lose what they love, perhaps the most insane belief of all. And their 
+bodies wither and gasp and are laid in the ground, and seem to be no more. Not 
+one of them but has thought that God is cruel. 
+
+T 11 J 3. If this were the real world, God WOULD be cruel.
+
+---
+
 New items added when found.
 
 Have an ACIM quote to add? Email iamalexbrady@gmail.com
