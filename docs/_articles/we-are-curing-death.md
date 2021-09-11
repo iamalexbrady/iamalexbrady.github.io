@@ -11,7 +11,7 @@ We are curing death during my time on Earth.<sup>1</sup> We are collectively get
 
 We cure death when we realize this: **There is no death.**
 
-Historically, there has seemed to be death. When we unlean death, the effect is that death will cease to be apparent. It will cease to be a decription of reality for us.
+Historically, there has seemed to be death. When we unlearn death, the effect is that death will cease to be apparent. It will cease to be an attribute of reality for us.
 
 It helps to know the principles behind how you can personally make this extraordinary realization, and to make a practice of strengthening your mind for the realization of it.
 
