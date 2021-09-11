@@ -3,7 +3,7 @@ layout: article
 slug: we-are-curing-death
 order: 60
 external_selector: we-are-curing-death
-title: We are curing death. Here's how:
+title: "We are curing death. Here's how:"
 paper_type: article
 ---
 
