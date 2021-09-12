@@ -9,8 +9,12 @@ paper_type: article
 
 <style>
 .course-mono {
-font-family:monospace;font-size:.9em;text-align:justify;
+font-family:monospace;font-size:.9em;text-align:center;margin-top:40px;margin-bottom:40px;
 }
+.notes {
+font-size: .8em;
+}
+.notes p { margin-bottom: 5px; }
 </style>
 <div class="course-mono">
 <p>The ultimate purpose of projection, as the ego uses it, is ALWAYS to get rid of guilt. You PROJECT guilt to get rid of it, but you actually merely CONCEAL it. <b>ACIM</b></p>
@@ -28,11 +32,11 @@ Unconscious guilt yields the belief that the world where gravity exists is real.
 
 From a heavenly perspective, there is no gravity. There is no mass. We can make it up, but it’s not of Real substance.
 
-<div class="text-small">
+<div class="notes">
   <p><b>Note:</b></p>
   <p><b>Look</b> at this defintiion of unconcious guilt. It it totally unlike traditional, or concious, guilt, and likely you have not viewed the word this way before.</p>
   <p><b><i>How</i> is this guilt?</b> The universe of time, space, and gravity is the world of separation. It’s the world where separate things exist. The conventional space of human affairs is within this world.</p>
-  <p>That this world of separation exists at all — means the mind has successful believed in separation. With the belief in separation comes the idea of separation and the concept of guilt.</p>
+  <p>That this world of separation exists at all — means the mind has successful believed in separation. With the belief in separation comes the idea of separate will and interests and the concept of guilt within separate perspectives.</p>
   <p>That the mind can now hold guilt as a concept is the presence of guilt in the mind.</p>
 </div>
 
@@ -79,4 +83,4 @@ Only by persuading you that you are OF the world where gravity exists, could the
 
 ---
 
-*References from [ACIM Text Chapter 12 Introduction](https://iamalexbrady.com/acim/t12a.html)**
+*References from [ACIM Text Chapter 12 Introduction](https://iamalexbrady.com/acim/t12a.html)*
