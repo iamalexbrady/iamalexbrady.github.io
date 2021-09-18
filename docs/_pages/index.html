@@ -8,6 +8,9 @@ permalink: /
     {% if page.external_selector == 'acim-history' %}
         {% assign about_acim_url = page.url %}
     {% endif %}
+    {% if page.external_selector == 'ab-sees' %}
+        {% assign ab_sees_url = page.url %}
+    {% endif %}
 {% endfor %}
 
 <div class="jumbotron d-flex">
@@ -21,9 +24,11 @@ permalink: /
 </div>
 
 <div class="region" id="call-to-action">
-    <div class="cta text-center">
-        <h4>Seek Personal Salvation</h4>
-    </div>
+    <a href="{{ ab_sees_url }}">
+        <div class="cta text-center">
+            <h4>Seek Personal Salvation</h4>
+        </div>
+    </a>
     <p class="text-small">Since the release of <i>A Course in Miracles</i>, personal salvation has become a simple process.</p>
     <p class="text-small">We provide resources to make it simpler. Feel free to reach out: @iamalexbrady</p>
 </div>
