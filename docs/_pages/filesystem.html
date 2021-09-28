@@ -1,0 +1,17 @@
+---
+layout: page
+title: an alexbrady filesystem
+permalink: /filesystem/
+body_class: filesystem
+external_selector: filesystem
+---
+
+<div class="d-flex justify-content-center mb-4">
+  <img src="/assets/img/filesystem.png" alt="computer directory tree">
+</div>
+
+{% for folder in site.filesystem_folders %}
+  <div class="mb-2 filesystem-folder">
+    <a href="{{ folder.url }}">{{ folder.title }}</a>{% if folder.description %} -----> {{ folder.description }} {% endif %}
+  </div>
+{% endfor %}

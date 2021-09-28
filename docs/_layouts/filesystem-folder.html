@@ -1,0 +1,23 @@
+---
+layout: default
+body_class: filesystem-folder
+---
+
+<div class="navigation mb-4">
+	{% assign filesystem = site.pages | where: "external_selector", "filesystem" | first %}
+	<a href="{{ filesystem.permalink }}">filesystem</a> / {{ page.slug }}
+</div>
+
+<h1>{{page.title}}</h1>
+<p>{{page.custom_description}}</p>
+
+{% capture src %}
+  https://drive.google.com/embeddedfolderview?id={{ page.folder_id }}#{{ page.display_view }}
+{% endcapture %}
+<iframe src="{{ src }}" class="mb-4" style="width:100%; height:600px; border:0;"></iframe>
+
+{{ content }}
+
+{% assign license = site.pages | where: "external_selector", "alexbrady-license" | first %}
+<p class="text-small">Original content provided under the <a href="/license" target="_blank">ALEXBRADY License.</a></p>
+<p class="text-small">For questions about non-original content, contact <a href="mailto:iamalexbrady@gmail.com">iamalexbrady@gmail</a>.</p>
