@@ -30,6 +30,10 @@ There's something in the cup. (**Note:** The *worst* way to say there is nothing
 
 Heaven is where I am.
 
+Suicide is a terrible idea.
+
+My load is light.
+
 
 **Holy Spirit Riddles:**
 
