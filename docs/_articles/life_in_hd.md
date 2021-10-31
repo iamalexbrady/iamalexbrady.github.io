@@ -37,6 +37,8 @@ and
 
 Welcome to the Awareness.
 
+---
+
 ¹ - This is God.
 
 ² - until you are
