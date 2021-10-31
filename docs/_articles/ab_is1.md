@@ -11,7 +11,7 @@ paper_type: article
 
 alex brady is a whole \*\*\*\* lot. This is part one in an infinite series on the defintions of alex brady.
 
-**Note:** We start with the definition of alexbrady, which, as you will see, encapsulates all of alex brady. **Both** will be expounded on at a later time.
+<p class="text-small"><b>Note:</b> We start with the definition of alexbrady, which, as you will see, encapsulates all of alex brady. Both will be expounded on at a later time.<p>
 
 ## alexbrady is entirety and all.
 - alexbrady is the concept of unbroken wholeness
