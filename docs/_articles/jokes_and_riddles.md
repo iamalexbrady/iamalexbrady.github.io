@@ -34,10 +34,20 @@ Suicide is a terrible idea.
 
 My load is light.
 
+Rubber is rubber. (This is about food.)
+
+Concepts don't matter.
+
 
 **Holy Spirit Riddles:**
 
 If the Holy Spirit was a letter, what letter would It be? [Answer on Reddit.](https://www.reddit.com/r/iamalexbrady/comments/o47cf2/if_the_holy_spirit_was_a_letter_what_letter_would/)
+
+What's in your mouth right now?
+
+How many fingers am I holding up?
+
+Do you hear the mountain spring?
 
 ---
 
