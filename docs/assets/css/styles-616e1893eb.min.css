@@ -15,5 +15,5 @@ body{margin:0;padding:0;font-family:'Roboto', sans-serif;font-size:18px;line-hei
 
 .reading-schedule{font-size:.75em}.reading-schedule thead{background:#222;color:#e9e9e9;font-variant:small-caps;font-weight:bold}.reading-schedule tr:nth-child(even){background-color:#eee}.reading-schedule td{padding:.5em}.reading-schedule td.day-number{background-color:#ababab;text-align:center}.reading-schedule td.agenda{padding-left:1em}
 
-.urtext .pre-content{width:100%;margin-bottom:20px}.urtext .prev-next{display:flex;justify-content:space-between}.urtext .section-list a{color:#222}.urtext .section-list a:hover{color:blue}.urtext .section-list a:visited{color:red}.urtext .section-list .chapter{font-weight:bold;margin-top:30px}.urtext .article-wrapper{font-family:monospace;font-size:.9em}.urtext .article-wrapper>p:first-child{font-weight:bold;text-decoration:underline}
+.urtext .pre-content{width:100%;margin-bottom:20px}.urtext .prev-next{display:flex;justify-content:space-between}.urtext .section-list a{color:#222}.urtext .section-list a:hover{color:blue}.urtext .section-list a:visited{color:red}.urtext .section-list .chapter{font-weight:bold;margin-top:30px}.urtext .article-wrapper{font-family:monospace;font-size:.9em}.urtext .article-wrapper>p:first-child{font-weight:bold;text-decoration:underline}.urtext .pull-request{font-size:12px;margin-top:20px}
 
