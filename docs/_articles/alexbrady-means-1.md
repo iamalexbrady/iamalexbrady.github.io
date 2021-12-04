@@ -38,7 +38,8 @@ What does alexbrady mean?
     console.log('iamalexbrady');
     console.log('https://iamalexbrady.com/acim/t3c.html');
   
-    $('#ab-means-1').submit(function() {
+    $('#ab-means-1').submit(function(e) {
+      e.preventDefault();
       var formData = $(this).serializeArray();
       var meaning = formData.filter(function(input) { return input.name == 'meaning'; })[0];
       var submission = meaning.value;
