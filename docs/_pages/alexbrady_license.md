@@ -16,8 +16,8 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Publication, and to permit persons to whom the Publication is
 furnished to do so, subject to the following conditions:
 
-The authors of new the publication are alex brady.
+* The authors of the new publication are alex brady.
 
-Use and modify at your own risk.
+Use and modify with discretion.
 
 \- alex brady
