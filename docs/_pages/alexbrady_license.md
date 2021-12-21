@@ -18,6 +18,6 @@ furnished to do so, subject to the following conditions:
 
 * The authors of the new publication are alex brady.
 
-Use and modify with discretion.
+Use and modify the Publication with discretion.
 
 \- alex brady
