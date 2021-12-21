@@ -26,6 +26,7 @@ Your site is now available at **`http://localhost:3000`**
 Public alexbrady material is provided under the [alexbrady license](https://github.com/iamalexbrady/iamalexbrady.github.io/blob/master/docs/_pages/alexbrady_license.md).
 
 alexbrady material not provided under the alexbrady license are listed below with the appropriate intellectual property claims:
+
 * 
 
 All material originally copywritten or licensed by a 3rd party are subject said party's intellectual property claims, and are provided for educational purposes only. We take care to ensure the license is listed with the material. Please refer to the licenses provided.
