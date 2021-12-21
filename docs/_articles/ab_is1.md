@@ -49,13 +49,13 @@ alex brady is a whole lot. This is part one in an infinite series on the definti
 
 ---
 
-## Supplements
+### Supplements
 
-### Check if you are alexbrady:
+**Check if you are alexbrady:**
 - are you alive?
     - if yes, you are alexbrady because alexbrady is life itself
 
-### Check if you are alex brady:
+**Check if you are alex brady:**
 - are you alexbrady?
     - if yes continue
     - <a href="https://i.giphy.com/media/3o7aTGhFrG0EuieWOc/giphy.webp" target="_blank">If no..</a>
@@ -65,11 +65,11 @@ alex brady is a whole lot. This is part one in an infinite series on the definti
     - if no, your decision not to be alex brady will take precedence in *your* perceptions
     - if no, your decision will take precedence in all legal matters involving alex brady's LLC
 
-### Necessary alexbrady attributes:
+**Necessary alexbrady attributes:**
 
 &times; adulthood<br>&times; college degree<br>&times; business ownership<br>✓ "I am"
 
-### Necessary alex brady attributes:
+**Necessary alex brady attributes:**
 
 &times; has a butt<br>✓ alexbrady<br>✓ identification with alexbrady
 
