@@ -16,7 +16,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Publication, and to permit persons to whom the Publication is
 furnished to do so, subject to the following conditions:
 
-* The authors of the new publication are alex brady.
+* The authors of the new publication are [alex brady.](https://acim.iamalexbrady.com/ab-sees/article/ab-is.html)
 
 Use and modify the Publication with discretion.
 
