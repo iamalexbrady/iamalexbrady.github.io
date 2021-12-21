@@ -23,7 +23,7 @@ Your site is now available at **`http://localhost:3000`**
 
 ### Open-Source
 
-Public alexbrady material is provided under the [alexbrady license](https://github.com/iamalexbrady/iamalexbrady.github.io/blob/master/docs/_pages/alexbrady_license.md).
+Public alexbrady material is provided under the [alexbrady license](https://acim.iamalexbrady.com/license/).
 
 alexbrady material not provided under the alexbrady license are listed below with the appropriate intellectual property claims:
 
