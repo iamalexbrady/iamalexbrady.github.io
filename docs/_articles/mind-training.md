@@ -23,7 +23,7 @@ Five, two-minute practice periods are recommended. Three is enough.
 
 The practice periods can be spaced over a day or an hour.
 
-### Take it Live:
+**Take it Live:**
 
 While our practice exercises are initially learned as a meditative tool,
 significant gains are captured when the mental exercise is performed within the "hustle & bustle" of daily life.
