@@ -15,7 +15,7 @@ Truth 1: Food is not real. Our obsession with food is noted, but in the Grand Sc
 
 So how did it come to be that a Divine thing got into food?
 
-Spoiler alert: **We eat because we like to shit.**
+Truth 2: **We eat because we like to shit.**
 
 <div class="text-center">
   <img src="https://pbs.twimg.com/media/Etj9MUmXMAMzCry?format=jpg&name=small" width="300px" />
