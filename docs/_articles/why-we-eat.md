@@ -11,9 +11,9 @@ This is a deep holy truth and one of the firsts of the series of truths that are
 
 This is true. When you remember how what I'm about to say is true, you're moving into the understanding of eternity.
 
-Truth 1: Food is not real. Our obsession with food is noted, but in the Grand Scheme of Reality, food is of illusion.
+Truth 1: **Food is not real.**
 
-So how did it come to be that a Divine thing got into food?
+Our obsession with food is noted, but in the Grand Scheme of Reality, food is of illusion. So how did it come to be that a Divine thing got into food?
 
 Truth 2: **We eat because we like to shit.**
 
