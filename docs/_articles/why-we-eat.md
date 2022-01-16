@@ -3,7 +3,7 @@ layout: article
 slug: why-we-eat
 order: 78
 external_selector: why-we-eat
-title: Why We Eat: Holy Truth
+title: "Why We Eat: Holy Truth"
 paper_type: article
 ---
 
