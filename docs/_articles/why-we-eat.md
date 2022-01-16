@@ -42,7 +42,7 @@ pleasure from the activity is misplaced. We are in our full happiness when we ar
 
 We make the world.
 
-The Grander Reality decision is to awaken from the dream of making. But the dream of making is a happy one indeed.
+While the Grander Reality decision we are moving into is awakening from even the dream of making, the dream of making is a happy one indeed.
 
 Happy dreams, y'all.
 
