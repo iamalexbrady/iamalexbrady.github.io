@@ -17,7 +17,7 @@ Our obsession with food is noted, but in the Grand Scheme of Reality, food is of
 
 Truth 2: **We eat because we like to shit.**
 
-<div class="text-center">
+<div class="text-center mb-4">
   <img src="https://pbs.twimg.com/media/Etj9MUmXMAMzCry?format=jpg&name=small" width="300px" />
 </div>
 
