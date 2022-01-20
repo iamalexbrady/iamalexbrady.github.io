@@ -16,7 +16,18 @@ linking verb or sign of passivisity.
 
 [https://www.english-grammar-revolution.com/linking-verbs.html](https://www.english-grammar-revolution.com/linking-verbs.html)
 
-<!-- <video src="" /> -->
+<!-- Add a placeholder for the Twitch embed -->
+<div id="twitch-embed-1269884367"></div>
+
+<!-- Load the Twitch embed script -->
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+
+<!-- Create a Twitch.Player object. This will render within the placeholder div -->
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed-1269884367", {
+    video: "1269884367"
+  });
+</script>
 
 ---
 
