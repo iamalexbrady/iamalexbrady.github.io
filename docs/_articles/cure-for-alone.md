@@ -29,6 +29,6 @@ Next time you think "I am alone" change the thought instead to
 
 I am All One.
 
-- al1
+\- al1
 
 Now accepting applications to [philosophy-c1ub](https://philosophy-club.mn.co/)
