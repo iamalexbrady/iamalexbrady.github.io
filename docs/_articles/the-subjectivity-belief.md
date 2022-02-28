@@ -48,12 +48,12 @@ Again, The Subjectivity Principle is a conventionally unnamed belief we took for
 2. There are other knowing beings with a different set of beliefs
    and experiences.
 
-Now that this is named, I assert a valid and powerfiul position from
+Now that this is named, I assert a valid and powerful position from
 which to view the world wherein a thinking being
 believes their self to be experiencing. This new perspective is of
 an objective knowing in the Present Moment - The Act of Am.
 
-I further assert concious mastery of the Act of Am yields the
+I further assert conscious mastery of the Act of Am yields the
 positive presence of miracle working.
 
 That's enough for basic understanding.
@@ -78,7 +78,7 @@ we believe in it. Beliefs can be changed, and thereby change perception.
 For beliefs as foundational as the validity of subjectivity,
 Miraculous means are necessary.
 This is where Miraculous Transformation comes in.
-Given the Mind Training paradim of MT, foundational beliefs can be
+Given the Mind Training paradigm of MT, foundational beliefs can be
 transformed by the willful act of a miracle.
 
 The Subjectivity Belief - an unbelievable belief*
