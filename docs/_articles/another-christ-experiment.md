@@ -55,4 +55,4 @@ Primacy is of mind. One can begin loosening the belief in physicality
 piecewise through experiments like the ones listed. Eventually, in one go,
 all senses are seen to be a secondary effect, and "turned off" if desired.
 
-- alex brady
+\- alex brady
