@@ -32,15 +32,15 @@ external_selector: ab-sees
 </div> -->
 
 <div class="region">
-	<h2>Video, Audio, and Other</h2>
+	<h2>Other</h2>
 	<video class="w-100 mb-4" controls>
 		<source src="{{ site.url }}/assets/files/mindid_1_introduction.mp4" type="video/ogg">
 	</video>
     <p>These are non-text resources.</p>
 	
-	<div class="mb-2">00. <a href="https://www.youtube.com/channel/UCrLx5DQV2vqAK-eSWYq9s7w" target="_blank">alex brady on YouTube</a> - Diverse mix of high quality enlightenment entertainment by yours truly.</div>
+	<div class="mb-2">00. <a href="https://www.youtube.com/channel/UCrLx5DQV2vqAK-eSWYq9s7w" target="_blank">Videos</a></div>
 
-	<div class="mb-2">0. <a href="https://www.youtube.com/playlist?list=PLQUn1ahLSHyXTtNP3cdbodlRHrK_geVZI" target="_blank">the alex brady playlist</a> - Spirituality, philosophy, science, comedy a.b likes..</div>
+	<div class="mb-2">0. <a href="https://www.youtube.com/playlist?list=PLQUn1ahLSHyXTtNP3cdbodlRHrK_geVZI" target="_blank">Playlist</a></div>
 
 	{% for asset in site.ab_assets %}
 		<div class="mb-2">{{ forloop.index }}. <a href="{{ asset.url }}">{{ asset.title }}</a>
@@ -49,13 +49,13 @@ external_selector: ab-sees
 	{% endfor %}
 </div>
 
-<div class="region">
+<!-- <div class="region">
 	<h2>alex brady's Filesystem</h2>
 	{% assign filesystem = site.pages | where: "external_selector", "filesystem" | first %}
 	<a href="{{ filesystem.permalink }}">/filesystem</a> - Full directories of images, text, and audio.
-</div>
+</div> -->
 
-<div class="region">
+<!-- <div class="region">
 	<h2>White Papers</h2>
 	<p>Unique channeled materials from Higher Self. Topics covered include: personal salvation, miracles, sex, and more.</p>
 	<div class="row">
@@ -72,7 +72,7 @@ external_selector: ab-sees
 			<img src="/assets/img/you_remember_this.jpg" alt="you remember this" width="100%">
 		</div>
 	</div>
-</div>
+</div> -->
 
 <div class="region">
 	<h2>Newsletter</h2>
